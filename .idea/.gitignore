@@ -1,3 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+*.android_data_binding
+*.lock
+
