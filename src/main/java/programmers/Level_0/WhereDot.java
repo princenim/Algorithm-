@@ -7,6 +7,7 @@ import java.time.Period;
  */
 public class WhereDot {
     public static int solution(int[] dot) {
+        //push test
 
 
         if (dot[0] > 0) {
