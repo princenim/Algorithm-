@@ -10,7 +10,6 @@ public class AgeOfExoplanets {
         //int to String
         String strAges= age + "";
 
-
         for(int i =0; i < strAges.length(); i++){
 
             //char to int 후에 아스키코드만큼 더하기
@@ -25,7 +24,6 @@ public class AgeOfExoplanets {
 
     public static void main(String[] args) {
         System.out.println(solution(23));
-
     }
 
 
