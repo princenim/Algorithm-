@@ -26,15 +26,27 @@ public class ExtractNum {
 
 
     //방법 2
-    public static int solution(String str){
-        return Integer.parseInt(str.replaceAll("[^0-9]",""));
+//    public static int solution(String str){
+//        return Integer.parseInt(str.replaceAll("[^0-9]",""));
+//
+//    }
 
+    public static int solution(String str) {
+        int answer = 0;
+        for (char x : str.toCharArray()) {
+            //문자형 정수 ex) '10'를 10진수화 하는 방법
+            if(x >= 48 && x <= 57 ){
+                answer = answer * 10 + (x - 48);
+                // 0 = 0 + 0
+                // 2   =  0 * 2  + (2)
+            }
+        }
+        return answer;
     }
 
 
-
-
     public static void main(String[] args) {
+
         Scanner in = new Scanner(System.in);
         String inputStr = in.nextLine();
         System.out.println(solution(inputStr));
