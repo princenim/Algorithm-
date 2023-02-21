@@ -15,7 +15,7 @@ public class CompressLetter {
 
         int cnt = 1;
 
-        // -1을 하는 이유는 하나를 내 맘대로 추가했기 때문에
+        // -1을 하는 이유는 문자를 하나 더 추가했기 때문에  , 인덱스 에러를 피하기 위해
         for (int i = 0; i < str.length()-1; i++) {
             if (str.charAt(i) == str.charAt(i + 1)) {
                 cnt++;
