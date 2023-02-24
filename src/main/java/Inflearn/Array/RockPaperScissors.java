@@ -14,13 +14,19 @@ public class RockPaperScissors {
         for (int i = 0; i < n; i++) {
             if (Objects.equals(arr1.get(i), arr2.get(i))) {
                 answer.add('D');
-            } else if (arr1.get(i) == 1 && (arr2.get(i) == 3)) {
-                answer.add('A');
-            } else if (arr1.get(i) == 2 && arr2.get(i) == 1) {
-                answer.add('A');
-            } else if (arr1.get(i) == 3 && arr2.get(i) == 2) {
-                answer.add('A');
-            } else {
+            } else if (arr1.get(i) == 1) {
+                if (arr2.get(i) == 3) {
+                    answer.add('A');
+                }
+            } else if (arr1.get(i) == 2) {
+                if (arr2.get(i) == 1) {
+                    answer.add('A');
+                }
+            } else if (arr1.get(i) == 3) {
+                if (arr2.get(i) == 2) {
+                    answer.add('A');
+                }
+            }else {
                 answer.add('B');
             }
 
