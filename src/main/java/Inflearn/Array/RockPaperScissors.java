@@ -48,7 +48,7 @@ public class RockPaperScissors {
             arr2.add(in.nextInt());
         }
 
-        //출력
+        //출력w
         for (char x : solution(n, arr1, arr2)) {
             System.out.println(x);
         }
