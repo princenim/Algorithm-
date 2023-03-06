@@ -10,7 +10,7 @@ public class SumNaturalNum {
     //3-5 . 연속된 자연수의 합
     public static int solution(int n){
         int answer = 0;
-        //n을 전부다 확인 할 필요값음
+        //n을 전부다 확인 할 필요없음
         //n/2 +1이 배열의 제일 큰 값보다 커질수 없음.
         int m = n/2 +1;
         int sum =0;
