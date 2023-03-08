@@ -17,7 +17,7 @@ public class ClassPresident {
 
         }
 
-        System.out.println(hash);
+
         int max = 0;
         for (char key : hash.keySet()) {
             if (hash.get(key) > max) {
