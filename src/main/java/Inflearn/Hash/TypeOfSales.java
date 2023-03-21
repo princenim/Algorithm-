@@ -1,6 +1,5 @@
 package Inflearn.Hash;
 
-import java.time.Period;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
