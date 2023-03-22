@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author hazel
  */
 public class AllAnagram {
-    // 3-4.모든 아나그램 찾기
+    // 4-4.모든 아나그램 찾기
 
     public static int solution(String str1, String str2) {
         int answer = 0;

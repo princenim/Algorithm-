@@ -9,7 +9,7 @@ import java.util.TreeSet;
  * @author hazel
  */
 public class BigNum {
-    //3-5.k번째 큰수
+    //4-5.k번째 큰수
     public static int solution(int n, int k, int[] arr) {
 
 

@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @author hazel
  */
 public class Anagram {
+    //4 - 2 .아나그램(해쉬)
 
     public static HashMap<Character, Integer> toHashMap(String str) {
         //저장순서가 유지 X
