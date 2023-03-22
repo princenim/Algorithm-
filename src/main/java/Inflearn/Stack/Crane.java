@@ -7,32 +7,32 @@ import java.util.Stack;
  * @author hazel
  */
 public class Crane {
-    private static int solution(int n, int[][] board, int moveLen, int[] move) {
+    private static int solution(int[][] board, int[] move) {
         int answer = 0;
 
         Stack<Integer> stack = new Stack<>();
 
         //8번씩 5번
-        for (int i = 0; i < moveLen; i++) {
-            for (int j = 0; j < n; j++) {
-                int i1 = board[j][move[i] - 1];
-                System.out.println(i1);
-                if (i1 != 0) {
-                    //stack에 넣고, 0으로 바꾸기
-
-                    stack.push(i1);
-                    board[j][move[i] - 1] = 0;
+        for (int pos : move) {
+            for (int j = 0; j < board.length; j++) {
+                //인형을찾음
+                if (board[j][pos -1]  != 0) {
+                    int tmp = board[j][pos -1];
+                    // 0으로 바꾸기
+                    board[j][pos -1]  = 0;
+                    if (!stack.isEmpty() && tmp == stack.peek()) {
+                        //stack에 마지막 값과 같을 떄
+                        answer += 2;
+                        stack.pop();
+                    } else {
+                        //stack에 넣기
+                        stack.push(tmp);
+                    }
+                    //인형을 찾으면 for문 나가기
                     break;
                 }
-
             }
-            System.out.println(stack);
-            System.out.println("==================");
-
-
         }
-
-
         return answer;
     }
 
@@ -52,7 +52,7 @@ public class Crane {
             move[i] = sc.nextInt();
         }
 
-        int solution = solution(n, board, moveLen, move);
+        int solution = solution(board, move);
         System.out.println(solution);
 
     }
