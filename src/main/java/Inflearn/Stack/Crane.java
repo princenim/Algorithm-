@@ -7,6 +7,7 @@ import java.util.Stack;
  * @author hazel
  */
 public class Crane {
+    //5-3 . 크레인(카카오)
     private static int solution(int[][] board, int[] move) {
         int answer = 0;
 
