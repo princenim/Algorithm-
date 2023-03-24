@@ -1,15 +1,15 @@
-package Inflearn;
+package Inflearn.Sorting;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 /**
  * @author hazel
  */
-public class Sorting {
+public class SelectSort {
 
     //6-1 .선택 정렬 (Selection sort)
-    //
+    //첫번쨰 자료를 두번째 자료부터 마지막 자료까지 차례대로 비교해 가장 작은 값을 찾아 첫번째와 교체
+    //첫번째 자료를 제외하고, 두번째 자료부터 마지막 자료까지 차레대로 비교해 가장 작은 값을 찾아 두번째와 교체
     public static int[] solution(int n, int[] arr) {
 
 
@@ -18,6 +18,7 @@ public class Sorting {
             int minIdx = i;
             //최소값 찾기
             for (int j = i + 1; j < n; j++) {
+                //minIdx를 교체하려면 j 의 값이 더 작아야함.
                 if (arr[j] < arr[minIdx]) {
                     //최소값으로 교체
                     minIdx = j;
