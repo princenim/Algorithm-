@@ -26,27 +26,27 @@ public class EmergencyRoom {
     public static int solution(int n, int m, int[] arr) {
         int answer = 0;
 
+        //클래스로 풀기
         Queue<Person> q = new LinkedList<>();
         for (int i = 0; i < n; i++) {
             q.add(new Person(i, arr[i]));
         }
-        //System.out.println(m);
-        //System.out.println(n);
 
 
         //q가 빈값이면 끝남
         while (!q.isEmpty()) {
             Person tmp = q.poll();
-            //System.out.println(tmp.id);
-            //System.out.println(tmp.priority);
             for (Person x : q) {
+                //대기목록에 있는 환자의 위험도 하나라도 크면 ,
                 if (x.priority > tmp.priority) {
                     q.offer(tmp);
                     tmp = null;
                     break;
+                } else {
+                    // else일때는 q에 아무것도 안하고 넘기기
                 }
             }
-            //모든 큐를 다 확인하고, tmp가 제일 크다면
+            //모든 큐를 다 확인하고, tmp 가 null이 아니라는 건 tmp가 가장 크다는 것
             if (tmp != null) {
                 answer++;
                 if (tmp.id == m) {
