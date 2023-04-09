@@ -61,6 +61,7 @@ public class Coordinate {
             System.out.println(o.x + " " + o.y);
         }
 
+        //testest
 
     }
 }
