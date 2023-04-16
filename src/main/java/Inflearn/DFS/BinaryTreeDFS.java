@@ -18,7 +18,7 @@ class Node {
     }
 }
 
-public class DFSMain {
+public class BinaryTreeDFS {
     Node root;
 
     //7-5. 이진트리순회 (Depth-First Search)
@@ -43,7 +43,7 @@ public class DFSMain {
 
     public static void main(String[] args) {
         // DFSMain class 객체, 그리고 이 안의 객체안에 root라는 변수가 존재
-        DFSMain tree = new DFSMain();
+        BinaryTreeDFS tree = new BinaryTreeDFS();
 
         //이진 트리 만들기
         //new로 객체를 생성하고 객체끼리 주소값으로 연결하기
