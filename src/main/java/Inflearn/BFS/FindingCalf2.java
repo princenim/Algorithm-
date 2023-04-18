@@ -1,14 +1,13 @@
 package Inflearn.BFS;
 
 import java.util.LinkedList;
-import java.util.Map;
 import java.util.Queue;
 import java.util.Scanner;
 
 /**
  * @author hazel
  */
-public class calf2 {
+public class FindingCalf2 {
 
     public int solution(int s, int e) {
 
@@ -38,7 +37,7 @@ public class calf2 {
                     int nx = num + arr[j];
 
                     //체크 배열 업데이트
-                    if (ch[nx] == 0) {
+                    if (nx >= 1 && nx <= 100000 && ch[nx] == 0) {
                         ch[nx] = 1;
                         //스택에 넣고
                         q.add(nx);
@@ -53,12 +52,12 @@ public class calf2 {
     }
 
     public static void main(String[] args) {
-        calf2 calf2 = new calf2();
+        FindingCalf2 FindingCalf2 = new FindingCalf2();
         Scanner sc = new Scanner(System.in);
         int s = sc.nextInt();
         int e = sc.nextInt();
 
-        System.out.println(calf2.solution(s, e));
+        System.out.println(FindingCalf2.solution(s, e));
 
 
     }
