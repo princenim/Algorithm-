@@ -10,7 +10,6 @@ public class RouteSearch {
     //방향 그래프가 주어지면 1번 정점에서 N번 정점으로 가는 모든 경로의 가지 수를 출력하는 프로그램을 작성하시오.
     //그래프에서 한번 방문한 노드는 다시 방문하지 않음.
 
-
     //하지만 이 방법은 n의 숫자가 커질수록 이 방법은 불필요
 
 
@@ -24,6 +23,7 @@ public class RouteSearch {
     public static void main(String[] args) {
         RouteSearch T = new RouteSearch();
         Scanner kb = new Scanner(System.in);
+        //만들때 변수 주의하기, 미리 만들어 둔 클래스변수에 값을 넣어야함. !!
         n = kb.nextInt();
         m = kb.nextInt();
         graph = new int[n + 1][n + 1];

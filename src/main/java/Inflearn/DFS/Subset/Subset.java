@@ -5,7 +5,7 @@ package Inflearn.DFS.Subset;
  * @author hazel
  */
 public class Subset {
-    //7-6. 부분 집합 구하기 (경우의 수를 모두 구하기 ! )
+    //7-6. 부분 집합 구하기 (경우의 수를 모두 구하기!)
     //자연수 n이 주어지면 1부터 n까지의 원소를 갖는 집합의 부분 집합을 모두 출력해라 -> 2의 n 제곱
     static int n;
     static int[] ch;
@@ -41,7 +41,6 @@ public class Subset {
 
         //index 번호가 출력할 배열의 값
         ch = new int[n + 1];
-
 
         //1부터 시작해서 숫자를 출력
         subset.DFS(1);

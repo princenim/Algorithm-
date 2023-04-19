@@ -32,10 +32,8 @@ public class FindingCalf2 {
                 if (num == e) {
                     return level;
                 }
-
                 for (int j = 0; j < 3; j++) {
                     int nx = num + arr[j];
-
                     //체크 배열 업데이트
                     if (nx >= 1 && nx <= 100000 && ch[nx] == 0) {
                         ch[nx] = 1;
@@ -43,8 +41,6 @@ public class FindingCalf2 {
                         q.add(nx);
                     }
                 }
-
-
             }
             level++;
         }

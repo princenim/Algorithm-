@@ -1,7 +1,6 @@
 package Inflearn.BFS.ShortestDistance;
 
 
-
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -10,44 +9,47 @@ import java.util.Queue;
  */
 
 
-class Node{
+class Node {
     int data = 0;
-    Node lt,rt;
+    Node lt, rt;
 
-    public Node(int val){
+    public Node(int val) {
         data = val;
-        lt = rt= null;
+        lt = rt = null;
     }
 
 
 }
+
 public class ShortestDistance {
     //7-10. Tree 말단노드까지의 가장 짧은 경로 (BFS) !!!!!!
 
     Node root;
-    public int solution(Node root){
+
+    public int solution(Node root) {
         //1. 스택 만들기
-        Queue<Node>  q = new LinkedList<>();
+        Queue<Node> q = new LinkedList<>();
         q.add(root);
 
-        int level =0;
-        int len = q.size();
-
-        for(int i =0; i < len; i ++){
-            Node x = q.poll();
-            //말단 노드라면 정답 리턴
-            if(x.lt ==null && x.rt == null){
-                return level;
+        int level = 0;
+        while (!q.isEmpty()) {
+            int len = q.size();
+            for (int i = 0; i < len; i++) {
+                Node x = q.poll();
+                //말단 노드라면 정답 리턴
+                if (x.lt == null && x.rt == null) {
+                    return level;
+                }
+                if (x.lt != null) {
+                    q.offer(x.lt);
+                }
+                if (x.rt != null) {
+                    q.offer(x.rt);
+                }
             }
-            if(x.lt != null){
-                q.offer(x.lt);
-            }
-            if(x.rt != null){
-                q.offer(x.rt);
-            }
-
+            System.out.println(level);
+            level++;
         }
-        level++;
 
 
         return level;
@@ -57,16 +59,13 @@ public class ShortestDistance {
 
     public static void main(String[] args) {
         ShortestDistance t = new ShortestDistance();
-        t.root= new Node(1);
-        System.out.println(t.root);
-        t.root.lt= new Node(2);
-        t.root.rt= new Node(3);
-        t.root.lt.lt= new Node(4);
-        t.root.lt.rt= new Node(5);
+        t.root = new Node(1);
+        t.root.lt = new Node(2);
+        t.root.rt = new Node(3);
+        t.root.lt.lt = new Node(4);
+        t.root.lt.rt = new Node(5);
 
         System.out.println(t.solution(t.root));//100이라는 주소를 넘겼다고 가정
-
-
 
 
     }
