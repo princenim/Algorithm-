@@ -1,4 +1,4 @@
-package Inflearn.DFS;
+package Inflearn.DFS.RouteSearch;
 
 import java.util.Scanner;
 

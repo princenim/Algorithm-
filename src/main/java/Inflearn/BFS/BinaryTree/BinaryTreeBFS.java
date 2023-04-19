@@ -1,4 +1,4 @@
-package Inflearn.BFS;
+package Inflearn.BFS.BinaryTree;
 
 import java.util.LinkedList;
 import java.util.Queue;

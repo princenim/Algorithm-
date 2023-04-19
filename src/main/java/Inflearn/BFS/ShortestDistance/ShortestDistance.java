@@ -1,4 +1,6 @@
-package Inflearn.BFS;
+package Inflearn.BFS.ShortestDistance;
+
+
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -8,11 +10,11 @@ import java.util.Queue;
  */
 
 
-class Nodes{
+class Node{
     int data = 0;
     Node lt,rt;
 
-    public Nodes(int val){
+    public Node(int val){
         data = val;
         lt = rt= null;
     }

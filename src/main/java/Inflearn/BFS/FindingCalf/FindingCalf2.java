@@ -1,4 +1,4 @@
-package Inflearn.BFS;
+package Inflearn.BFS.FindingCalf;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -9,7 +9,6 @@ import java.util.Scanner;
  */
 public class FindingCalf2 {
     //7-8 . 송아지 찾기 (BFS, 상태 트리 탐색) -> 최단 거리 구하기
-
     public int solution(int s, int e) {
 
         int[] arr = {1, -1, 5};

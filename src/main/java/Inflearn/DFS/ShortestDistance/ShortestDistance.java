@@ -1,21 +1,19 @@
-package Inflearn.DFS;
+package Inflearn.DFS.ShortestDistance;
+
 
 /**
  * @author hazel
  */
 
 
-
-
-class NodeNode{
+class Node {
     int data;
     Node lt, rt;
 
-    public NodeNode(int val){
+    public Node(int val) {
         data = val;
         lt = rt = null;
     }
-
 
 
 }
@@ -27,13 +25,13 @@ public class ShortestDistance {
     Node root;
 
 
-    public int DFS(int L, Node root){
+    public int DFS(int L, Node root) {
 
         //말단 노드
-        if(root.lt == null && root.rt == null){
+        if (root.lt == null && root.rt == null) {
             return L;
-        }else {
-            return Math.min(DFS(L+1, root.lt), DFS(L+1, root.rt));
+        } else {
+            return Math.min(DFS(L + 1, root.lt), DFS(L + 1, root.rt));
         }
 
     }
@@ -41,11 +39,11 @@ public class ShortestDistance {
     public static void main(String[] args) {
         ShortestDistance t = new ShortestDistance();
 
-        t.root= new Node(1); //100번지라고 생각
-        t.root.lt= new Node(2);
-        t.root.rt= new Node(3);
-        t.root.lt.lt= new Node(4);
-        t.root.lt.rt= new Node(5);
+        t.root = new Node(1); //100번지라고 생각
+        t.root.lt = new Node(2);
+        t.root.rt = new Node(3);
+        t.root.lt.lt = new Node(4);
+        t.root.lt.rt = new Node(5);
 
 
         System.out.println(t.DFS(0, t.root));
