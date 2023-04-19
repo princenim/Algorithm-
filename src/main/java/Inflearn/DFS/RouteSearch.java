@@ -11,6 +11,10 @@ public class RouteSearch {
     //그래프에서 한번 방문한 노드는 다시 방문하지 않음.
 
 
+    //하지만 이 방법은 n의 숫자가 커질수록 이 방법은 불필요
+
+
+
     //전역변수
     static int n, m, answer = 0;
     static int[][] graph;
@@ -32,7 +36,7 @@ public class RouteSearch {
             int b = kb.nextInt();
             graph[a][b] = 1;
         }
-        ch[1] = 1; // 1부터 시작하므로 1에 체크
+        ch[1] = 1; // 1부터 시작하므로 1에 체크 -> 여기 중요!!!! 먼저 체크하고 시작 해야함.
         T.DFS(1);
         System.out.println(answer);
     }
@@ -46,11 +50,12 @@ public class RouteSearch {
         } else {
             //1번 노드부터 n번 노드까지
             for (int i = 1; i <= n; i++) {
-                //1번 정점에서 갈 수 있는 i번 정점갈 수 있어야하고, 방문을 안 했어야함.
-                // 1번 정점으리면 ,(1 1),(1 2),(1 3),(1 4),(1 5) 이렇게 방문
+                //1번 정점에서 갈 수 있는 i번 정점을 갈 수 있어야하고, 방문을 안 했어야함,
+                // 1번 정점이라면 ,(1 1),(1 2),(1 3),(1 4),(1 5) 이렇게 방문
                 if (graph[v][i] == 1 && ch[i] == 0) {
                     ch[i] = 1;
                     DFS(i);
+
                     //다시 백 했을 때 다시 체크 풀어주기
                     ch[i] = 0;
                 }
