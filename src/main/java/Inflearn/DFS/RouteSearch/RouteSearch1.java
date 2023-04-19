@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author hazel
  */
-public class RouteSearch {
+public class RouteSearch1 {
     //7-12. 그래프 경로 탐색(인접 행렬) DFS
     //방향 그래프가 주어지면 1번 정점에서 N번 정점으로 가는 모든 경로의 가지 수를 출력하는 프로그램을 작성하시오.
     //그래프에서 한번 방문한 노드는 다시 방문하지 않음.
@@ -21,7 +21,7 @@ public class RouteSearch {
 
 
     public static void main(String[] args) {
-        RouteSearch T = new RouteSearch();
+        RouteSearch1 T = new RouteSearch1();
         Scanner kb = new Scanner(System.in);
         //만들때 변수 주의하기, 미리 만들어 둔 클래스변수에 값을 넣어야함. !!
         n = kb.nextInt();

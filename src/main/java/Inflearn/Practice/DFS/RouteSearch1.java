@@ -5,8 +5,8 @@ import java.util.Scanner;
 /**
  * @author hazel
  */
-public class RouteSearch {
-    //경로 탐색
+public class RouteSearch1 {
+    //경로 탐색 (인접행렬 = 행렬로 받기, DFS)
 
     // 체크 배열
     static int[] ch;
@@ -33,7 +33,7 @@ public class RouteSearch {
 
     public static void main(String[] args) {
         //입력 만들기
-        RouteSearch t = new RouteSearch();
+        RouteSearch1 t = new RouteSearch1();
         Scanner sc = new Scanner(System.in);
         //만들때 변수 주의하기, 미리 만들어 둔 클래스 변수에 값을 넣어야함. !!
         n =  sc.nextInt();

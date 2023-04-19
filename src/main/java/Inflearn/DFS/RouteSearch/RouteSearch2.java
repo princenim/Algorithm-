@@ -1,6 +1,4 @@
-package Inflearn.Array;
-
-import com.sun.tools.javac.Main;
+package Inflearn.DFS.RouteSearch;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -8,7 +6,7 @@ import java.util.Scanner;
 /**
  * @author hazel
  */
-public class RouteSearch {
+public class RouteSearch2 {
     //7-13. 경로탐색(인접리스트, ArrayList)
     //방향 그래프가 주어지면 1번 정점에서 N번 정점으로 가는 모든 경로의 가지 수를 출력하는 프로그램을 작성하시오.
 
@@ -36,7 +34,7 @@ public class RouteSearch {
     }
 
     public static void main(String[] args) {
-        RouteSearch T = new RouteSearch();
+        RouteSearch2 T = new RouteSearch2();
         Scanner in = new Scanner(System.in);
 
         // 정점의 갯수
