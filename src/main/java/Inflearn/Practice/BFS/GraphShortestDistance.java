@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author hazel
  */
 public class GraphShortestDistance {
-    //7-14 . 그래프 최단거리
+    //7-14 . 그래프 최단거리 (BFS - 레벨로 푼 버전)
     static int n, m = 0;
 
     static int[] ch;
