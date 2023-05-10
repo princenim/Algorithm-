@@ -18,7 +18,7 @@ public class RemoveDuplicatedLetter {
 //        for(char x : str.toCharArray()){
 //            setChar.add(x);
 //        }
-//
+//w
 //        for(char x : setChar){
 //            answer += x;
 //
