@@ -6,7 +6,7 @@ import java.util.Scanner;
  * @author hazel
  */
 public class Combination {
-    // 8 - 7. 조합 (메모이제이션 사용)
+    // 8 - 7. 조합 수 (메모이제이션 사용)
 
     //메모이제이션 사용 - 시간을 줄이기 위해
     static int[][] dy = new int[35][35];
