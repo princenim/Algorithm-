@@ -23,7 +23,7 @@ public class FindCombination {
             //만약 i가 1이라면 1,1 같이 중복해서 출력된
             for (int i = s; i <= n; i++) {
                 arr[l] = i;
-                DFS(l +1, s  +1);
+            DFS(l +1, i  +1);
             }
         }
 
