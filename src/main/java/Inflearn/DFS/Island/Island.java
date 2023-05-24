@@ -7,6 +7,7 @@ import java.util.Scanner;
  */
 public class Island {
     //8-13.섬나라 아일랜드
+    //BFS로도 풀수 있음
     static int[][] arr;
     static int answer = 0;
     static int n;
