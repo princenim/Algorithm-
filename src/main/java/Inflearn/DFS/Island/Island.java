@@ -12,6 +12,7 @@ public class Island {
     static int answer = 0;
     static int n;
 
+    //위부터 오른으로
     static int[] dx = {-1, -1, 0, 1, 1, 1, 0, -1};
     static int[] dy = {0, 1, 1, 1, 0, -1, -1, -1};
 
