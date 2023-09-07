@@ -3,4 +3,5 @@
 /workspace.xml
 *.android_data_binding
 *.lock
+.idead
 
