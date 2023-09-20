@@ -1,8 +1,5 @@
 package Inflearn.Sorting;
 
-import programmers.Level_0.HateEnglish;
-
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 

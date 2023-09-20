@@ -1,6 +1,5 @@
 package Inflearn.String;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
