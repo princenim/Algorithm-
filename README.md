@@ -1,5 +1,6 @@
 # Algorithm
 알고리즘 풀이 연습 기록
 
-- Programmers
-- Inflearn
+- PROGRAMMERS
+- INFLEARN
+- BOJ
