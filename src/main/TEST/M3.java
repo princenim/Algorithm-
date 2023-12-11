@@ -1,4 +1,4 @@
-package main.ETC.TEST;
+package main.TEST;
 
 import java.util.HashSet;
 import java.util.Scanner;
