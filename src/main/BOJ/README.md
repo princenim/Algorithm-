@@ -13,6 +13,8 @@
 | [BOJ 10430](https://www.acmicpc.net/problem/10430) | [BOJ10430.java](BOJ10430.java) | 구현 |    |
 | [BOJ 2588](https://www.acmicpc.net/problem/2588)   | [BOJ2588.java](BOJ2588.java)   | 구현 |    |
 | [BOJ 11382](https://www.acmicpc.net/problem/11382) |  [BOJ11382.java](BOJ11382.java) | 구현 |    |
+| [BOJ 1330](https://www.acmicpc.net/problem/1330)   | [BOJ1330.java](BOJ1330.java)  | 구현 |    |
+
 
 
 
