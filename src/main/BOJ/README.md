@@ -20,6 +20,7 @@
 | [BOJ 2525](https://www.acmicpc.net/problem/2525)   | [BOJ2525.java](BOJ2525.java)   | 구현 |    |
 | [BOJ 2480](https://www.acmicpc.net/problem/2480)   | [BOJ2480.java](BOJ2480.java)   | 구현 |    |
 | [BOJ 14681](https://www.acmicpc.net/problem/14681) | [BOJ14681.java](BOJ14681.java) | 구현 |    |
+| [BOJ 2739](https://www.acmicpc.net/problem/2739)      | [BOJ2739.java](BOJ2739.java)| 구현 |    |
 
 
 
