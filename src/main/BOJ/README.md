@@ -25,6 +25,7 @@
 | [BOJ 8393](https://www.acmicpc.net/problem/18393)  | [BOJ8393.java](BOJ8393.java) | 구현 |    |
 | [BOJ 25304](https://www.acmicpc.net/problem/25304) | [BOJ25304.java](BOJ25304.java)| 구현 |    |
 | [BOJ 25314](https://www.acmicpc.net/problem/25314) | [BOJ25314.java](BOJ25314.java)| 구현 |    |
+| [BOJ 15552](https://www.acmicpc.net/problem/15552) |[BOJ15552.java](BOJ15552.java) | 구현 |    |
 
 
 
