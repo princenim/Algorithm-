@@ -18,7 +18,8 @@
 | [BOJ 2753](https://www.acmicpc.net/problem/2753)   | [BOJ2753.java](BOJ2753.java)   | 구현 |    |
 | [BOJ 2884](https://www.acmicpc.net/problem/2884)   | [BOJ2884.java](BOJ2884.java)   | 구현 |    |
 | [BOJ 2525](https://www.acmicpc.net/problem/2525)   | [BOJ2525.java](BOJ2525.java)   | 구현 |    |
-| [BOJ 2480](https://www.acmicpc.net/problem/2480)   | [BOJ2480.java](BOJ2525.java)   | 구현 |    |
+| [BOJ 2480](https://www.acmicpc.net/problem/2480)   | [BOJ2480.java](BOJ2480.java)   | 구현 |    |
+| [BOJ 14681](https://www.acmicpc.net/problem/14681) | [BOJ14681.java](BOJ14681.java) | 구현 |    |
 
 
 
