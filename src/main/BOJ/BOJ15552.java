@@ -19,11 +19,24 @@ public class BOJ15552 {
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
 
-            bw.write(a + b + "\n"); //출력 , BufferedWriter는 개행이 안 되기 떄문에 "\n"추가
+            bw.write(a + b + "\n");//출력 버퍼 스트림에 문자열을 모두 보낸다. , BufferedWriter는 개행이 안 되기 떄문에 "\n"추가
         }
 
-        bw.flush(); //남아있는 데이터를 모두 출력시킴
+        bw.flush(); //남아있는 데이터를 한번에 모두 출력
+        bw.close(); //스트림을 닫아줌.
 
 
     }
+
+//    public static void main(String[] args) {
+//        Scanner scanner = new Scanner(System.in);
+//        int n  = scanner.nextInt();
+//        for(int i =0; i < n; i ++){
+//            int a = scanner.nextInt();
+//            int b = scanner.nextInt();
+//            System.out.println();
+//
+//    }
+//    }
 }
+
