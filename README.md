@@ -1,4 +1,4 @@
-# Algorithm
+# 📍  Algorithm
 알고리즘 문제 풀이 연습 기록
 
 | 사이트  | 풀이                                                                           |
