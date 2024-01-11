@@ -29,6 +29,7 @@
 | [BOJ 11021](https://www.acmicpc.net/problem/11021) |[BOJ11021.java](BOJ11021.java) | 구현 |  |
 | [BOJ 11022](https://www.acmicpc.net/problem/11022) |[BOJ11022.java](BOJ11022.java) | 구현 |  |
 | [BOJ 2438](https://www.acmicpc.net/problem/2438)   |[BOJ2438.java](BOJ2438.java) | 구현 |  |
+| [BOJ 2439](https://www.acmicpc.net/problem/2439)   |[BOJ2439.java](BOJ2439.java)| 구현 |  |
 
 
 
