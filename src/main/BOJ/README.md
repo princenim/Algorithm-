@@ -33,6 +33,7 @@
 | [BOJ 10952](https://www.acmicpc.net/problem/10952) |[BOJ10952.java](BOJ10952.java)| 구현 |  |
 | [BOJ 10951](https://www.acmicpc.net/problem/10951) |[BOJ10951.java](BOJ10951.java)| 구현 |  |
 | [BOJ 10807](https://www.acmicpc.net/problem/10807) |[BOJ10807.java](BOJ10807.java)| 구현 |  |
+| [BOJ 10871](https://www.acmicpc.net/problem/10871) |[BOJ10871.java](BOJ10871.java)| 구현 |  |
 
 
 
