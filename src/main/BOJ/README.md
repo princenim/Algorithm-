@@ -44,6 +44,7 @@
 | [BOJ 1546](https://www.acmicpc.net/problem/1546)   |[BOJ1546.java](BOJ1546.java)| 구현 |  |
 | [BOJ 27866](https://www.acmicpc.net/problem/27866) |[BOJ27866.java](BOJ27866.java)| 구현 |  |
 | [BOJ 2743](https://www.acmicpc.net/problem/2743)   |[BOJ2743.java](BOJ2743.java)| 구현 |  |
+| [BOJ 9086](https://www.acmicpc.net/problem/9086)   |[BOJ2743.java](BOJ2743.java)| 구현 |  |
 
 
 
