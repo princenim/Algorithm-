@@ -48,6 +48,7 @@
 | [BOJ 11654](https://www.acmicpc.net/problem/11654) |[BOJ11654.java](BOJ11654.java)| 구현 |  |
 | [BOJ 11720](https://www.acmicpc.net/problem/11720) |[BOJ11720.java](BOJ11720.java)| 구현 |  |
 | [BOJ 10809](https://www.acmicpc.net/problem/10809) |[BOJ10809.java](BOJ10809.java)| 구현 |  |
+| [BOJ 2675](https://www.acmicpc.net/problem/2675)   |[BOJ2675.java](BOJ2675.java)| 구현 |  |
 
 
 
