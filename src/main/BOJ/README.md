@@ -50,6 +50,7 @@
 | [BOJ 10809](https://www.acmicpc.net/problem/10809) |[BOJ10809.java](BOJ10809.java)| 구현 |  |
 | [BOJ 2675](https://www.acmicpc.net/problem/2675)   |[BOJ2675.java](BOJ2675.java)| 구현 |  |
 | [BOJ 1152](https://www.acmicpc.net/problem/1152)   |[BOJ1152.java](BOJ1152.java)| 구현 |  |
+| [BOJ 2908](https://www.acmicpc.net/problem/2908)   |[BOJ2908.java](BOJ2908.java)| 구현 |  |
 
 
 
