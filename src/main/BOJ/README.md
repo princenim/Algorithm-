@@ -52,6 +52,7 @@
 | [BOJ 1152](https://www.acmicpc.net/problem/1152)   |[BOJ1152.java](BOJ1152.java)| 구현 |  |
 | [BOJ 2908](https://www.acmicpc.net/problem/2908)   |[BOJ2908.java](BOJ2908.java)| 구현 |  |
 | [BOJ 5622](https://www.acmicpc.net/problem/5622)   |[BOJ5622.java](BOJ5622.java)| 구현 |  |
+| [BOJ 11718](https://www.acmicpc.net/problem/11718) |[BOJ11718.java](BOJ11718.java)| 구현 |  |
 
 
 
