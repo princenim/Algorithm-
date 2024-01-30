@@ -63,6 +63,7 @@
 | [BOJ 2012](https://www.acmicpc.net/problem/2012)   |[BOJ2012.java](BOJ%2FBOJ2012.java)| 그리디  |  |
 | [BOJ 1543](https://www.acmicpc.net/problem/1543)   |[BOJ1543.java](BOJ%2FBOJ1543.java)| 브루트포스 |  |
 | [BOJ 1202](https://www.acmicpc.net/problem/1202)   |[BOJ1202.java](BOJ%2FBOJ1202.java)| 그리디  |  |
+| [BOJ 1782](https://www.acmicpc.net/problem/1782)   |[BOJ1781.java](BOJ%2FBOJ1781.java)| 그리디  |  |
 
 
 
