@@ -1,7 +1,7 @@
 # 📍 백준 문제풀이
 
-| 문제                                                 | 풀이             | 종류   | 설명                                    |
-|----------------------------------------------------|----------------|------|---------------------------------------|
+| 문제                                                 | 풀이         | 종류   | 설명                                    |
+|----------------------------------------------------|------------|------|---------------------------------------|
 | [BOJ 2557](https://www.acmicpc.net/problem/2557)   | [BOJ2557.java](BOJ%2FBOJ2557.java) | 구현   |                                       |
 | [BOJ 1000](https://www.acmicpc.net/problem/1000)   | [BOJ1000.java](BOJ%2FBOJ1000.java) | 구현   |                                       |
 | [BOJ 1001](https://www.acmicpc.net/problem/1001)   | [BOJ1001.java](BOJ%2FBOJ1001.java) | 구현   |                                       |
@@ -64,6 +64,8 @@
 | [BOJ 1543](https://www.acmicpc.net/problem/1543)   |[BOJ1543.java](BOJ%2FBOJ1543.java)| 브루트포스 |  |
 | [BOJ 1202](https://www.acmicpc.net/problem/1202)   |[BOJ1202.java](BOJ%2FBOJ1202.java)| 그리디  |  |
 | [BOJ 1782](https://www.acmicpc.net/problem/1782)   |[BOJ1781.java](BOJ%2FBOJ1781.java)| 그리디  |  |
+| [BOJ 2212](https://www.acmicpc.net/problem/2212)   |[BOJ2212.java](BOJ%2FBOJ2212.java)| 그리디  |  |
+
 
 
 
