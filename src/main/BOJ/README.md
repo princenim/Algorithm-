@@ -1,6 +1,6 @@
 # 📍 백준 문제풀이
 
-| 문제                                                 | 풀이        | 종류   | 설명                                    |
+| 문제                                                 | 풀이        | 종류   | 해설                                    |
 |----------------------------------------------------|-----------|------|---------------------------------------|
 | [BOJ 2557](https://www.acmicpc.net/problem/2557)   | [BOJ2557.java](BOJ%2FBOJ2557.java) | 구현   |                                       |
 | [BOJ 1000](https://www.acmicpc.net/problem/1000)   | [BOJ1000.java](BOJ%2FBOJ1000.java) | 구현   |                                       |
@@ -25,47 +25,47 @@
 | [BOJ 8393](https://www.acmicpc.net/problem/18393)  | [BOJ8393.java](BOJ%2FBOJ8393.java) | 구현   |                                       |
 | [BOJ 25304](https://www.acmicpc.net/problem/25304) | [BOJ25304.java](BOJ%2FBOJ25304.java)| 구현   |                                       |
 | [BOJ 25314](https://www.acmicpc.net/problem/25314) | [BOJ25314.java](BOJ%2FBOJ25314.java)| 구현   |                                       |
-| [BOJ 15552](https://www.acmicpc.net/problem/15552) |[BOJ15552.java](BOJ%2FBOJ15552.java) | 구현   | [설명](https://azelhhh.tistory.com/103) |
-| [BOJ 11021](https://www.acmicpc.net/problem/11021) |[BOJ11021.java](BOJ%2FBOJ11021.java) | 구현   |  |
-| [BOJ 11022](https://www.acmicpc.net/problem/11022) |[BOJ11022.java](BOJ%2FBOJ11022.java) | 구현   |  |
-| [BOJ 2438](https://www.acmicpc.net/problem/2438)   |[BOJ2438.java](BOJ%2FBOJ2438.java) | 구현   |  |
-| [BOJ 2439](https://www.acmicpc.net/problem/2439)   |[BOJ2439.java](BOJ%2FBOJ2439.java)| 구현   |  |
-| [BOJ 10952](https://www.acmicpc.net/problem/10952) |[BOJ10952.java](BOJ%2FBOJ10952.java)| 구현   |  |
-| [BOJ 10951](https://www.acmicpc.net/problem/10951) |[BOJ10951.java](BOJ%2FBOJ10951.java)| 구현   |  |
-| [BOJ 10807](https://www.acmicpc.net/problem/10807) |[BOJ10807.java](BOJ%2FBOJ10807.java)| 구현   |  |
-| [BOJ 10871](https://www.acmicpc.net/problem/10871) |[BOJ10871.java](BOJ%2FBOJ10871.java)| 구현   |  |
-| [BOJ 10818](https://www.acmicpc.net/problem/10818) |[BOJ10818.java](BOJ%2FBOJ10818.java)| 구현   |  |
-| [BOJ 2562](https://www.acmicpc.net/problem/2562)   |[BOJ2562.java](BOJ%2FBOJ2562.java)| 구현   |  |
-| [BOJ 10810](https://www.acmicpc.net/problem/10810) |[BOJ10810.java](BOJ%2FBOJ10810.java)| 구현   |  |
-| [BOJ 10813](https://www.acmicpc.net/problem/10813) |[BOJ10813.java](BOJ%2FBOJ10813.java)| 구현   |  |
-| [BOJ 5597](https://www.acmicpc.net/problem/5597)   |[BOJ5597.java](BOJ%2FBOJ5597.java)| 구현   |  |
-| [BOJ 3052](https://www.acmicpc.net/problem/3052)   |[BOJ3052.java](BOJ%2FBOJ3052.java)| 구현   |  |
-| [BOJ 10811](https://www.acmicpc.net/problem/10811) |[BOJ10811.java](BOJ%2FBOJ10811.java)| 구현   |  |
-| [BOJ 1546](https://www.acmicpc.net/problem/1546)   |[BOJ1546.java](BOJ%2FBOJ1546.java)| 구현   |  |
-| [BOJ 27866](https://www.acmicpc.net/problem/27866) |[BOJ27866.java](BOJ%2FBOJ27866.java)| 구현   |  |
-| [BOJ 2743](https://www.acmicpc.net/problem/2743)   |[BOJ2743.java](BOJ%2FBOJ2743.java)| 구현   |  |
-| [BOJ 9086](https://www.acmicpc.net/problem/9086)   |[BOJ2743.java](BOJ%2FBOJ2743.java)| 구현   |  |
-| [BOJ 11654](https://www.acmicpc.net/problem/11654) |[BOJ11654.java](BOJ%2FBOJ11654.java)| 구현   |  |
-| [BOJ 11720](https://www.acmicpc.net/problem/11720) |[BOJ11720.java](BOJ%2FBOJ11720.java)| 구현   |  |
-| [BOJ 10809](https://www.acmicpc.net/problem/10809) |[BOJ10809.java](BOJ%2FBOJ10809.java)| 구현   |  |
-| [BOJ 2675](https://www.acmicpc.net/problem/2675)   |[BOJ2675.java](BOJ%2FBOJ2675.java)| 구현   |  |
-| [BOJ 1152](https://www.acmicpc.net/problem/1152)   |[BOJ1152.java](BOJ%2FBOJ1152.java)| 구현   |  |
-| [BOJ 2908](https://www.acmicpc.net/problem/2908)   |[BOJ2908.java](BOJ%2FBOJ2908.java)| 구현   |  |
-| [BOJ 5622](https://www.acmicpc.net/problem/5622)   |[BOJ5622.java](BOJ%2FBOJ5622.java)| 구현   |  |
-| [BOJ 11718](https://www.acmicpc.net/problem/11718) |[BOJ11718.java](BOJ%2FBOJ11718.java)| 구현   |  |
-| [BOJ 3003](https://www.acmicpc.net/problem/3003)   |[BOJ3003.java](BOJ%2FBOJ3003.java)| 구현   |  |
-| [BOJ 2444](https://www.acmicpc.net/problem/2444)   |[BOJ2444.java](BOJ%2FBOJ2444.java)| 구현   |  |
-| [BOJ 10988](https://www.acmicpc.net/problem/10988) |[BOJ10988.java](BOJ%2FBOJ10988.java)| 구현   |  |
-| [BOJ 1157](https://www.acmicpc.net/problem/1157)   |[BOJ1157.java](BOJ%2FBOJ1157.java)| 구현   |  |
-| [BOJ 2941](https://www.acmicpc.net/problem/2941)   |[BOJ2941.java](BOJ%2FBOJ2941.java)| 구현   |  |
-| [BOJ 1316](https://www.acmicpc.net/problem/1316)   |[BOJ1316.java](BOJ%2FBOJ1316.java)| 구현   |  |
-| [BOJ 1802](https://www.acmicpc.net/problem/1802)   |[BOJ1802.java](BOJ%2FBOJ1802.java)| 그리디  |  |
-| [BOJ 2012](https://www.acmicpc.net/problem/2012)   |[BOJ2012.java](BOJ%2FBOJ2012.java)| 그리디  |  |
-| [BOJ 1543](https://www.acmicpc.net/problem/1543)   |[BOJ1543.java](BOJ%2FBOJ1543.java)| 브루트포스 |  |
-| [BOJ 1202](https://www.acmicpc.net/problem/1202)   |[BOJ1202.java](BOJ%2FBOJ1202.java)| 그리디  |  |
-| [BOJ 1782](https://www.acmicpc.net/problem/1782)   |[BOJ1781.java](BOJ%2FBOJ1781.java)| 그리디  |  |
-| [BOJ 2212](https://www.acmicpc.net/problem/2212)   |[BOJ2212.java](BOJ%2FBOJ2212.java)| 그리디  |  |
-| [BOJ 1149](https://www.acmicpc.net/problem/1149)   |[BOJ1149.java](BOJ%2FBOJ1149.java)| DP   |  |
+| [BOJ 15552](https://www.acmicpc.net/problem/15552) |[BOJ15552.java](BOJ%2FBOJ15552.java) | 구현   | [해설](https://azelhhh.tistory.com/103) |
+| [BOJ 11021](https://www.acmicpc.net/problem/11021) |[BOJ11021.java](BOJ%2FBOJ11021.java) | 구현   |                                       |
+| [BOJ 11022](https://www.acmicpc.net/problem/11022) |[BOJ11022.java](BOJ%2FBOJ11022.java) | 구현   |                                       |
+| [BOJ 2438](https://www.acmicpc.net/problem/2438)   |[BOJ2438.java](BOJ%2FBOJ2438.java) | 구현   |                                       |
+| [BOJ 2439](https://www.acmicpc.net/problem/2439)   |[BOJ2439.java](BOJ%2FBOJ2439.java)| 구현   |                                       |
+| [BOJ 10952](https://www.acmicpc.net/problem/10952) |[BOJ10952.java](BOJ%2FBOJ10952.java)| 구현   |                                       |
+| [BOJ 10951](https://www.acmicpc.net/problem/10951) |[BOJ10951.java](BOJ%2FBOJ10951.java)| 구현   |                                       |
+| [BOJ 10807](https://www.acmicpc.net/problem/10807) |[BOJ10807.java](BOJ%2FBOJ10807.java)| 구현   |                                       |
+| [BOJ 10871](https://www.acmicpc.net/problem/10871) |[BOJ10871.java](BOJ%2FBOJ10871.java)| 구현   |                                       |
+| [BOJ 10818](https://www.acmicpc.net/problem/10818) |[BOJ10818.java](BOJ%2FBOJ10818.java)| 구현   |                                       |
+| [BOJ 2562](https://www.acmicpc.net/problem/2562)   |[BOJ2562.java](BOJ%2FBOJ2562.java)| 구현   |                                       |
+| [BOJ 10810](https://www.acmicpc.net/problem/10810) |[BOJ10810.java](BOJ%2FBOJ10810.java)| 구현   |                                       |
+| [BOJ 10813](https://www.acmicpc.net/problem/10813) |[BOJ10813.java](BOJ%2FBOJ10813.java)| 구현   |                                       |
+| [BOJ 5597](https://www.acmicpc.net/problem/5597)   |[BOJ5597.java](BOJ%2FBOJ5597.java)| 구현   |                                       |
+| [BOJ 3052](https://www.acmicpc.net/problem/3052)   |[BOJ3052.java](BOJ%2FBOJ3052.java)| 구현   |                                       |
+| [BOJ 10811](https://www.acmicpc.net/problem/10811) |[BOJ10811.java](BOJ%2FBOJ10811.java)| 구현   |                                       |
+| [BOJ 1546](https://www.acmicpc.net/problem/1546)   |[BOJ1546.java](BOJ%2FBOJ1546.java)| 구현   |                                       |
+| [BOJ 27866](https://www.acmicpc.net/problem/27866) |[BOJ27866.java](BOJ%2FBOJ27866.java)| 구현   |                                       |
+| [BOJ 2743](https://www.acmicpc.net/problem/2743)   |[BOJ2743.java](BOJ%2FBOJ2743.java)| 구현   |                                       |
+| [BOJ 9086](https://www.acmicpc.net/problem/9086)   |[BOJ2743.java](BOJ%2FBOJ2743.java)| 구현   |                                       |
+| [BOJ 11654](https://www.acmicpc.net/problem/11654) |[BOJ11654.java](BOJ%2FBOJ11654.java)| 구현   |                                       |
+| [BOJ 11720](https://www.acmicpc.net/problem/11720) |[BOJ11720.java](BOJ%2FBOJ11720.java)| 구현   |                                       |
+| [BOJ 10809](https://www.acmicpc.net/problem/10809) |[BOJ10809.java](BOJ%2FBOJ10809.java)| 구현   |                                       |
+| [BOJ 2675](https://www.acmicpc.net/problem/2675)   |[BOJ2675.java](BOJ%2FBOJ2675.java)| 구현   |                                       |
+| [BOJ 1152](https://www.acmicpc.net/problem/1152)   |[BOJ1152.java](BOJ%2FBOJ1152.java)| 구현   |                                       |
+| [BOJ 2908](https://www.acmicpc.net/problem/2908)   |[BOJ2908.java](BOJ%2FBOJ2908.java)| 구현   |                                       |
+| [BOJ 5622](https://www.acmicpc.net/problem/5622)   |[BOJ5622.java](BOJ%2FBOJ5622.java)| 구현   |                                       |
+| [BOJ 11718](https://www.acmicpc.net/problem/11718) |[BOJ11718.java](BOJ%2FBOJ11718.java)| 구현   |                                       |
+| [BOJ 3003](https://www.acmicpc.net/problem/3003)   |[BOJ3003.java](BOJ%2FBOJ3003.java)| 구현   |                                       |
+| [BOJ 2444](https://www.acmicpc.net/problem/2444)   |[BOJ2444.java](BOJ%2FBOJ2444.java)| 구현   |                                       |
+| [BOJ 10988](https://www.acmicpc.net/problem/10988) |[BOJ10988.java](BOJ%2FBOJ10988.java)| 구현   |                                       |
+| [BOJ 1157](https://www.acmicpc.net/problem/1157)   |[BOJ1157.java](BOJ%2FBOJ1157.java)| 구현   |                                       |
+| [BOJ 2941](https://www.acmicpc.net/problem/2941)   |[BOJ2941.java](BOJ%2FBOJ2941.java)| 구현   |                                       |
+| [BOJ 1316](https://www.acmicpc.net/problem/1316)   |[BOJ1316.java](BOJ%2FBOJ1316.java)| 구현   |                                       |
+| [BOJ 1802](https://www.acmicpc.net/problem/1802)   |[BOJ1802.java](BOJ%2FBOJ1802.java)| 그리디  |                                       |
+| [BOJ 2012](https://www.acmicpc.net/problem/2012)   |[BOJ2012.java](BOJ%2FBOJ2012.java)| 그리디  |                                       |
+| [BOJ 1543](https://www.acmicpc.net/problem/1543)   |[BOJ1543.java](BOJ%2FBOJ1543.java)| 브루트포스 |                                       |
+| [BOJ 1202](https://www.acmicpc.net/problem/1202)   |[BOJ1202.java](BOJ%2FBOJ1202.java)| 그리디  |                                       |
+| [BOJ 1782](https://www.acmicpc.net/problem/1782)   |[BOJ1781.java](BOJ%2FBOJ1781.java)| 그리디  |                                       |
+| [BOJ 2212](https://www.acmicpc.net/problem/2212)   |[BOJ2212.java](BOJ%2FBOJ2212.java)| 그리디  |                                       |
+| [BOJ 1149](https://www.acmicpc.net/problem/1149)   |[BOJ1149.java](BOJ%2FBOJ1149.java)| DP   |             [BOJ1129.md](NOTE%2FBOJ1129.md)                          |
 
 
 

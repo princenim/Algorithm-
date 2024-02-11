@@ -1,7 +1,5 @@
 package main.BOJ.BOJ;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 /**
@@ -12,7 +10,7 @@ public class BOJ1149 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
-        int[][] dp = new int[n][3]; //4 3
+        int[][] dp = new int[n][3]; //3 3의 배열 생성
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < 3; j++) {
