@@ -1,7 +1,7 @@
 # 📍 백준 문제풀이
 
-| 문제                                                 | 풀이       | 종류   | 해설                                |
-|----------------------------------------------------|----------|------|-----------------------------------|
+| 문제                                                 | 풀이     | 종류   | 해설                                |
+|----------------------------------------------------|--------|------|-----------------------------------|
 | [BOJ 2557](https://www.acmicpc.net/problem/2557)   | [BOJ2557.java](BOJ%2FBOJ2557.java) | 구현   |                                   |
 | [BOJ 1000](https://www.acmicpc.net/problem/1000)   | [BOJ1000.java](BOJ%2FBOJ1000.java) | 구현   |                                   |
 | [BOJ 1001](https://www.acmicpc.net/problem/1001)   | [BOJ1001.java](BOJ%2FBOJ1001.java) | 구현   |                                   |
@@ -69,6 +69,7 @@
 | [BOJ 5430](https://www.acmicpc.net/problem/5430)   |[BOJ5430.java](BOJ%2FBOJ5430.java)| 구현   |     |
 | [BOJ 1309](https://www.acmicpc.net/problem/1309)   |[BOJ1309.java](BOJ%2FBOJ1309.java)| DP   |     |
 | [BOJ 2108](https://www.acmicpc.net/problem/2108)   |[BOJ2108.java](BOJ%2FBOJ2108.java)| 구현   |     |
+| [BOJ 2606](https://www.acmicpc.net/problem/2606)   |[BOJ2606.java](BOJ%2FBOJ2606.java)| 그래프  |     |
 
 
 
