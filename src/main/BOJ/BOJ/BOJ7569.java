@@ -10,26 +10,23 @@ import java.util.*;
  * @author hazel
  */
 public class BOJ7569 {
-    static int[][][] tomato; //토마토
+    static int[][][] tomato; //토마토 - 3차원 배열
     static int M, N, H;
-
-    static int[] dx = {0, -1, 0, 1, 0, 0}; //좌부터 시계방향, 위 아래
+    static int[] dx = {0, -1, 0, 1, 0, 0}; //좌부터 시계방향 위 아래
     static int[] dy = {-1, 0, 1, 0, 0, 0};
     static int[] dz = {0, 0, 0, 0, 1, -1};
-
     static Queue<Location> redTomato = new LinkedList<>(); //큐
     static int cnt = 0;
     static int days = 0;
 
-
     public static void main(String[] args) throws IOException {
 
         Scanner sc = new Scanner(System.in);
-        M = sc.nextInt(); //가로 칸의 수 - 열
-        N = sc.nextInt(); //세로 칸의 수 - 행
+        M = sc.nextInt(); //열
+        N = sc.nextInt(); //행
         H = sc.nextInt(); //면
 
-        //3차원 배열- 면, 행 열 !! 초기화
+        //3차원 배열- 면, 행 ,열  초기화
         tomato = new int[H][N][M];
 
         for (int z = 0; z < H; z++) { //면
@@ -44,11 +41,8 @@ public class BOJ7569 {
             }
         }
 
-        System.out.println("=====================");
-        System.out.println(Arrays.deepToString(tomato)); //토마토
-        System.out.println(cnt); //-1의 개수
-        System.out.println("=====================");
-
+        //System.out.println(Arrays.deepToString(tomato)); //토마토
+        //System.out.println(cnt); //-1의 개수
 
         //큐를 하나씩 꺼내면서 검사
         while (!redTomato.isEmpty() && cnt > 0) { //큐가 안 비어있고, cnt가 0보다 클때
@@ -88,6 +82,7 @@ public class BOJ7569 {
         }
     }
 }
+
 
 class Location { //익은 토마토의 위치정보를 저장
     int z;
