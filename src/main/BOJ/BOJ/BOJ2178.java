@@ -1,4 +1,4 @@
-package main.BOJ.BOJ.BOJ2178;
+package main.BOJ.BOJ;
 
 import java.io.BufferedReader;
 import java.io.IOException;
