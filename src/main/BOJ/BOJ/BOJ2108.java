@@ -47,12 +47,17 @@ public class BOJ2108 {
             return arr[0];
         }
         //map에 추가
-        for (int i = 0; i < n; i++) {
-            if (mp.containsKey(arr[i])) {
-                mp.put(arr[i], mp.get(arr[i]) + 1);
-            } else {
-                mp.put(arr[i], 1);
-            }
+//        for (int i = 0; i < n; i++) {
+//            if (mp.containsKey(arr[i])) {
+//                mp.put(arr[i], mp.get(arr[i]) + 1);
+//            } else {
+//                mp.put(arr[i], 1);
+//            }
+//        }
+
+        //위의 주석문을 수정  - 키가 없으면 1 키가 존재하면 value+1
+        for(int i =0; i < n; i ++){
+            mp.compute(arr[i], (key, value) -> (value == null) ? 1 : value +1);
         }
         //System.out.println(mp.toString());
 
