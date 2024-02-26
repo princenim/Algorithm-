@@ -74,13 +74,15 @@ public class BOJ2178 {
             }
         }
     }
-}
+    static class Pair {
+        int x, y;
 
-class Pair {
-    int x, y;
-
-    Pair(int x, int y) {
-        this.x = x;
-        this.y = y;
+        Pair(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
     }
 }
+
+
+
