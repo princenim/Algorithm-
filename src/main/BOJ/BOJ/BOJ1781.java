@@ -6,25 +6,11 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 /**
+ * 컵라면
+ * 그리디 : 각 단계에서 지금 당장 좋은 선택을 하는 방식
+ *  데드라인이 같은 문제를 만났을때 컵라면이 더 많은 문제를 풀어야 최대값을 얻을 수 있으므로 그리디 알고리즘이다.
  * @author hazel
  */
-
-
-class Problem {
-    int deadline;
-    int num;
-
-    Problem(int deadline, int num) {
-        this.deadline = deadline;
-        this.num = num;
-    }
-
-
-    public String toString() {
-        return "deadline :" + deadline + ", " + "num :" + num;
-    }
-}
-
 public class BOJ1781 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -39,8 +25,6 @@ public class BOJ1781 {
 
             problems[i] = new Problem(d, cnt);
         }
-
-        //배열 정렬 - 데드라인이 오름차순 같으면 내림차순
 
         Comparator<Problem> comparator = (o1, o2) -> {
             if (o1.deadline == o2.deadline) {
@@ -69,7 +53,19 @@ public class BOJ1781 {
         System.out.println(answer);
     }
 
+    static class Problem {
+        int deadline;
+        int num;
 
+        Problem(int deadline, int num) {
+            this.deadline = deadline;
+            this.num = num;
+        }
+
+        public String toString() {
+            return "deadline :" + deadline + ", " + "num :" + num;
+        }
+    }
 }
 
 
