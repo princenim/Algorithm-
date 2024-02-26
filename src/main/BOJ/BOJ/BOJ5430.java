@@ -1,21 +1,23 @@
 package main.BOJ.BOJ;
 
+
 import java.io.*;
 import java.util.*;
 
 /**
- * @author hazel
  * AC
+ * @author hazel
  */
 public class BOJ5430 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
         // 케이스 개수 T 입력
         int T = Integer.parseInt(br.readLine());
         for (int t = 0; t < T; t++) {
+
+            //System.out.println("test case 1 : "  +t);
 
             // 함수 배열 cmd 입력
             String p = br.readLine();
@@ -42,37 +44,55 @@ public class BOJ5430 {
             for (int i = 0; i < p.length(); i++) {
                 if (p.charAt(i) == 'R') {
                     flag = !flag;
-                } else if (p.charAt(i) == 'D') {
-                    if (!dq.isEmpty()) {
-                        if (flag) {
-                            dq.pollFirst(); //맨 앞의 요소를 하나 뽑아서 제거
-                        } else {
-                            dq.pollLast();//맨 뒤의 요소를 하나 뽑아서 제거
-                        }
-                    } else { //비어있으면 에러 체크 후 break
+                }
+
+                if (p.charAt(i) == 'D') {
+                    if (dq.isEmpty()) {
                         error = true;
                         break;
+                    } //미리 예외처리를 앞에서 처리해버리기
+
+                    //비어있지 않을때
+                    if (flag) {
+                        dq.pollFirst(); //맨 앞의 요소를 하나 뽑아서 제거
+                    } else {
+                        dq.pollLast(); //맨 뒤의 요소를 하나 뽑아서 제거
                     }
                 }
             }
 
             // 출력 구현
             // dq에 상태에 따라 뒤집어야하므로, dq를 List로 변환
-            ArrayList<Integer> arr = new ArrayList<>(dq);
+//            ArrayList<Integer> arr = new ArrayList<>(dq);
+//
+//            if (!error) {
+//                if (flag) {
+//                    bw.write(arr.toString().replace(" ", ""));
+//                } else {
+//                    Collections.reverse(arr);
+//                    bw.write(arr.toString().replace(" ", ""));
+//                }
+//            } else {
+//                bw.write("error");
+//            }
+//
+//            bw.write("\n");
+//            bw.flush();
 
-            if (!error) {
-                if (flag) {
-                    bw.write(arr.toString().replace(" ", ""));
-                } else {
-                    Collections.reverse(arr);
-                    bw.write(arr.toString().replace(" ", ""));
-                }
+            //출력 구현
+            StringBuilder sb = new StringBuilder();
+            if (error) {
+                System.out.print("error");
             } else {
-                bw.write("error");
+                sb.append("[");
+                while (!dq.isEmpty()) {
+                    sb.append(flag ? dq.removeFirst() : dq.removeLast());
+                    if (!dq.isEmpty())
+                        sb.append(',');
+                }
+                sb.append(']');
             }
-
-            bw.write("\n");
-            bw.flush();
+            System.out.println(sb);
         }
     }
 }
