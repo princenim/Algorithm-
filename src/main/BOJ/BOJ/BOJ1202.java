@@ -6,7 +6,8 @@ import java.util.*;
 
 /**
  * 보석 도둑
- *
+ * 그리디 : 각 단계에서 지금 당장 좋은 선택을 하는 방식
+ * 무게가 같을때 가격이 더 비싸야 더 보석 가격의  최대값을 얻을 수 있으므로 그리디 알고리즘이다.
  * @author hazel
  */
 
@@ -52,7 +53,7 @@ public class BOJ1202 {
         // 가방의 무게를 오름차순 정렬
         Arrays.sort(bag);
 
-        //높은 숫자가 우선순위 큐- 즉  무거운 게 가장 먼저 나옴
+        //높은 숫자가 우선순위 큐 - 즉  무거운 게 가장 먼저 나옴
         PriorityQueue<Integer> q = new PriorityQueue<>(Comparator.reverseOrder());  //내림차순
         int idx = 0;
         for (int i = 0; i < bag.length; i++) { //가장 기준으로 탐색
@@ -76,22 +77,21 @@ public class BOJ1202 {
         System.out.println(answer);
 
     }
+
+    static class Jewelry {
+        int mass; //무게
+        int price;//가격
+
+        Jewelry(int mass, int price) { //생성자
+            this.mass = mass;
+            this.price = price;
+        }
+        public String toString() {
+            return "mass :" + mass + ", " + "price :" + price;
+        }
+    }
 }
 
-class Jewelry {
-    int mass; //무게
-    int price;//가격
 
-    Jewelry(int mass, int price) { //생성자
-        this.mass = mass;
-        this.price = price;
-    }
-
-    public String toString() {
-        return "mass :" + mass + ", " + "price :" + price;
-    }
-
-
-}
 
 
