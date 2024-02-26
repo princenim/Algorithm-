@@ -81,17 +81,19 @@ public class BOJ7569 {
             System.out.println(-1); //익지 않은 토마토가 존재한다면
         }
     }
-}
 
+    static class Location { //익은 토마토의 위치정보를 저장
+        int z;
+        int y;
+        int x;
 
-class Location { //익은 토마토의 위치정보를 저장
-    int z;
-    int y;
-    int x;
-
-    Location(int z, int y, int x) {
-        this.z = z;
-        this.y = y;
-        this.x = x;
+        Location(int z, int y, int x) {
+            this.z = z;
+            this.y = y;
+            this.x = x;
+        }
     }
 }
+
+
+
