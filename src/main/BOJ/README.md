@@ -76,6 +76,7 @@
 | [BOJ 7569](https://www.acmicpc.net/problem/7569)   |[BOJ7569.java](BOJ%2FBOJ7569.java)| 그래프   |     |
 | [BOJ 2178](https://www.acmicpc.net/problem/2178)   |[BOJ2178.java](BOJ%2FBOJ2178.java)| 그래프   |     |
 | [BOJ 2206](https://www.acmicpc.net/problem/2206)   |[BOJ2206.java](BOJ%2FBOJ2206.java)| 그래프   |     |
+| [BOJ 10989](https://www.acmicpc.net/problem/10989) |[BOJ10989.java](BOJ%2FBOJ10989.java)| 정렬    |     |
 
 
 
