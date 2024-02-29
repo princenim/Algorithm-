@@ -12,11 +12,7 @@ import java.util.Arrays;
  * @author hazel
  */
 
-/*
-    출력할때 for문으로 배열의 요소를 하나씩 System.out.println로 출력하면 시간초과가 떴는데
-    그 이유는 개별적으로 콘솔에 출력하기 때문이다. 출력 작업은 I/O 작업으로 출력을 할때마다 리소스를 사용해 성능에 영향을 준다.
-    하지만 StringBuilder를 사용하면 내부적으로 문자열을 버퍼에 추가하여 한번만 출력하기 때문에 성능이 더 빠르다.
- */
+
 public class BOJ10989 {
 
     /**
