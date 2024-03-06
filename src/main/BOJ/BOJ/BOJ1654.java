@@ -40,11 +40,10 @@ public class BOJ1654 {
             System.out.println("cnt :" + cnt);
             System.out.println("====");
 
-            //더 크면
+            //n이 cnt보다 더 크면 mid 보다 이전 범위 검색
             if (cnt < n) {
                 high = mid - 1;
-            } else { //cnt가 n보다 같거나 클때
-                //예제의 경우 만약 200으로 11개를 만들 수 있어도 201로도 11개를 만들 수있으므로 최대의 랜선길이를 구해야하므로 이진탐색을 계속 진행한다.
+            } else { //cnt가 n보다 같거나 클때 mid 보다 오른쪽 범위 검색
                 low = mid + 1;
             }
             System.out.println("low : " + low);
