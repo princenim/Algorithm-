@@ -84,6 +84,7 @@
 | [BOJ 1300](https://www.acmicpc.net/problem/1300)   | [BOJ1300.java](BOJ%2FBOJ1300.java)| 이진탐색    |   [BOJ1300.md](NOTE%2FBOJ1300.md)  |
 | [BOJ 2654](https://www.acmicpc.net/problem/2654)   | [BOJ1654.java](BOJ%2FBOJ1654.java)| 이진탐색    |     |
 | [BOJ 2805](https://www.acmicpc.net/problem/2805)   | [BOJ2805.java](BOJ%2FBOJ2805.java)| 이진탐색    |     |
+| [BOJ 6236](https://www.acmicpc.net/problem/6236)   | [BOJ6236.java](BOJ%2FBOJ6236.java)| 이진탐색    |     |
 
 
 
