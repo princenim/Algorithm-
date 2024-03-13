@@ -87,6 +87,7 @@
 | [BOJ 6236](https://www.acmicpc.net/problem/6236)   | [BOJ6236.java](BOJ%2FBOJ6236.java)| 이진탐색     |     |
 | [BOJ 1463](https://www.acmicpc.net/problem/1463)   |[BOJ1463.java](BOJ%2FBOJ1463.java) | DP       |  [BOJ1463.md](NOTE%2FBOJ1463.md)   |
 | [BOJ 9095](https://www.acmicpc.net/problem/9095)   |[BOJ9095.java](BOJ%2FBOJ9095.java) | DP       |   |
+| [BOJ 2579](https://www.acmicpc.net/problem/2579)   |[BOJ2579.java](BOJ%2FBOJ2579.java) | DP       |   |
 
 
 
