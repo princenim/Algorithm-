@@ -90,6 +90,7 @@
 | [BOJ 2579](https://www.acmicpc.net/problem/2579)   | [BOJ2579.java](BOJ%2FBOJ2579.java)   | DP       |                                   |
 | [BOJ 11726](https://www.acmicpc.net/problem/11726) | [BOJ11726.java](BOJ%2FBOJ11726.java) | DP       |
 | [BOJ 11722](https://www.acmicpc.net/problem/11722) | [BOJ11722.java](BOJ%2FBOJ11722.java) | DP       |
+| [BOJ 15486](https://www.acmicpc.net/problem/15486) | [BOJ15486.java](BOJ%2FBOJ15486.java) | DP       | [BOJ15486.md](NOTE%2FBOJ15486.md) |
 
 
 
