@@ -93,7 +93,8 @@
 | [BOJ 15486](https://www.acmicpc.net/problem/15486) | [BOJ15486.java](BOJ%2FBOJ15486.java)     | DP       | [BOJ15486.md](NOTE%2FBOJ15486.md) |
 | [BOJ 1753](https://www.acmicpc.net/problem/1753)   | [BOJ1753.java](BOJ%2FBOJ1753.java)       | 최단경로     |                                   |
 | [BOJ 2606](https://www.acmicpc.net/problem/2606)   | [BOJ2606_2.java](BOJ%2FBOJ2606_2.java)   | 유니온파인드   |                                   |
-| [BOJ 11724](https://www.acmicpc.net/problem11724)  | [BOJ11724_2.java](BOJ%2FBOJ11724_2.java) | 유니온파인드   |                                   |
+| [BOJ 11724](https://www.acmicpc.net/problem/11724) | [BOJ11724_2.java](BOJ%2FBOJ11724_2.java) | 유니온파인드   |                                   |
+| [BOJ 1976](https://www.acmicpc.net/problem/1976)   | [BOJ1976.java](BOJ%2FBOJ1976.java)       | 유니온파인드   |                                   |
 
 
 
