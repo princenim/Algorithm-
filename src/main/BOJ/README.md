@@ -95,6 +95,7 @@
 | [BOJ 2606](https://www.acmicpc.net/problem/2606)   | [BOJ2606_2.java](BOJ%2FBOJ2606_2.java)   | 유니온파인드    |                                   |
 | [BOJ 11724](https://www.acmicpc.net/problem/11724) | [BOJ11724_2.java](BOJ%2FBOJ11724_2.java) | 유니온파인드    |                                   |
 | [BOJ 1976](https://www.acmicpc.net/problem/1976)   | [BOJ1976.java](BOJ%2FBOJ1976.java)       | 유니온파인드    |                                   |
+| [BOJ 1717](https://www.acmicpc.net/problem/1717)   | [BOJ1717.java](BOJ%2FBOJ1717.java)       | 유니온파인드    |                                   |
 | [BOJ 1197](https://www.acmicpc.net/problem/1197)   | [BOJ1197.java](BOJ%2FBOJ1197.java)       | 크루스칼 알고리즘 |                                   |
 | [BOJ 1922](https://www.acmicpc.net/problem/1922)   | [BOJ1922.java](BOJ%2FBOJ1922.java)       | 크루스칼 알고리즘 |                                   |
 
