@@ -99,6 +99,8 @@
 | [BOJ 1197](https://www.acmicpc.net/problem/1197)   | [BOJ1197.java](BOJ%2FBOJ1197.java)       | 크루스칼 알고리즘 |                                   |
 | [BOJ 1922](https://www.acmicpc.net/problem/1922)   | [BOJ1922.java](BOJ%2FBOJ1922.java)       | 크루스칼 알고리즘 |                                   |
 | [BOJ 2667](https://www.acmicpc.net/problem/2667)   | [BOJ2667.java](BOJ%2FBOJ2667.java)       | DFS       |                                   |
+| [BOJ 1260](https://www.acmicpc.net/problem/1260)   | [BOJ1260.java](BOJ%2FBOJ1260.java)       | DFS,BFS   |                                   |
+
 
 
 
