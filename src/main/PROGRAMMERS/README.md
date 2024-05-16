@@ -8,6 +8,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)    | [Solution2.java](LEVEL_2%2F%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D%2FSolution2.java)                 | 해시   |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)  | [Solution.java](LEVEL_1%2F%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4%2FSolution.java)          | 스택/큐 |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | [Solution.java](LEVEL_2%2F%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C%2FSolution.java)                                     | 스택/큐 |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.1 | [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)       | [Solution.java](LEVEL_1%2FK%EB%B2%88%EC%A7%B8%EC%88%98%2FSolution.java)                                             | 정렬   |    |
 
 
 
