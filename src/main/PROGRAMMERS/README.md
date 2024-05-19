@@ -9,6 +9,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)  | [Solution.java](LEVEL_1%2F%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4%2FSolution.java)          | 스택/큐 |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)       | [Solution.java](LEVEL_2%2F%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C%2FSolution.java)                                     | 스택/큐 |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.1 | [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)       | [Solution.java](LEVEL_1%2FK%EB%B2%88%EC%A7%B8%EC%88%98%2FSolution.java)                                             | 정렬   |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)     | [Solution.java](LEVEL_2%2F%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8%2FSolution.java)                            | 스택/큐 |    |
 
 
 
