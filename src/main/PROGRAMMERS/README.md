@@ -11,6 +11,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.1 | [k번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)             | [Solution.java](LEVEL_1%2FK%EB%B2%88%EC%A7%B8%EC%88%98%2FSolution.java)                                             | 정렬   |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)           | [Solution.java](LEVEL_2%2F%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8%2FSolution.java)                            | 스택/큐 |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=java) | [Solution.java](LEVEL_2%2F%EC%9D%98%EC%83%81%2FSolution.java)                                                       | 해시   |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)           | [Solution.java](LEVEL_2%2F%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98%2FSolution.java)                                     | 정렬   |    |
 
 
 
