@@ -12,6 +12,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)           | [Solution.java](LEVEL_2%2F%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8%2FSolution.java)                            | 스택/큐 |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=java) | [Solution.java](LEVEL_2%2F%EC%9D%98%EC%83%81%2FSolution.java)                                                       | 해시   |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)           | [Solution.java](LEVEL_2%2F%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98%2FSolution.java)                                     | 정렬   |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.1 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)           | [Solution.java](LEVEL_1%2F%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%2FSolution.java)                   | 완전탐색 |    |
 
 
 
