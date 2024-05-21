@@ -14,6 +14,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)           | [Solution.java](LEVEL_2%2F%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98%2FSolution.java)                                     | 정렬   |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.1 | [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)           | [Solution.java](LEVEL_1%2F%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%2FSolution.java)                   | 완전탐색 |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)             | [Solution.java](LEVEL_2%2F%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2FSolution.java)                                     | 스택/큐 |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)          | [Solution.java](LEVEL_2%2FHIndex%2FSolution.java)                                                                   | 정렬   |    |
 
 
 
