@@ -17,6 +17,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)          | [Solution.java](LEVEL_2%2FHIndex%2FSolution.java)                                                                   | 정렬      |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)             | [Solution.java](LEVEL_2%2F%EB%8D%94%EB%A7%B5%EA%B2%8C%2FSolution.java)                                              | 힙       |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)            | [Solution.java](LEVEL_2%2F%ED%83%80%EC%BC%93%EB%84%98%EB%B2%84%2FSolution.java)                                     | DFS/BFS |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)         | [Solution.java](LEVEL_2%2F%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%2FSolution.java)          | DFS/BFS |    |
 
 
 
