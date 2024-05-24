@@ -19,6 +19,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)            | [Solution.java](LEVEL_2%2F%ED%83%80%EC%BC%93%EB%84%98%EB%B2%84%2FSolution.java)                                     | DFS/BFS |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)         | [Solution.java](LEVEL_2%2F%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%2FSolution.java)          | DFS/BFS |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)             | [Solution.java](LEVEL_3%2F%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%2FSolution.java)                                     | DFS/BFS |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.3 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)            | [Solution.java](LEVEL_3%2F%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98%2FSolution.java)                                     | DFS/BFS |    |
 
 
 
