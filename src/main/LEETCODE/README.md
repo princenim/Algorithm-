@@ -8,4 +8,6 @@
 | Easy   | [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                                                                      | [Solution.java](EASY%2FN832%2FSolution.java) , [Solution2.java](EASY%2FN832%2FSolution2.java) | 구현 |    |
 | Easy   | [136. Single Number](https://leetcode.com/problems/single-number/description/)                                                                                  | [Solution.java](EASY%2FN136%2FSolution.java)                                                  | 구현 |    |
 | Medium | [260. Single Number III](https://leetcode.com/problems/single-number-iii/)                                                                                      | [Solution.java](MEDIUM%2FN260%2FSolution.java)                                                | 구현 |    |
+| Easy   | [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/)                                                                                     | [Solution.java](EASY%2FN3110%2FSolution.java)                                                 | 구현 |    |
+
 
