@@ -5,23 +5,11 @@ import java.util.Queue;
 import java.util.Scanner;
 
 /**
+ * 8 -11. 미로의 최단거리 통로 (BFS)
+ *
  * @author hazel
  */
-
-
-class Point {
-    public int x, y;
-
-    Point(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-
-}
-
 public class Maze {
-    //8 -11. 미로의 최단거리 통로 (BFS)
-    //todo 다시 풀기
 
     static int[][] arr;
     //거리 저장할 배열
@@ -50,7 +38,6 @@ public class Maze {
                 }
             }
         }
-
     }
 
     public static void main(String[] args) {
@@ -61,21 +48,23 @@ public class Maze {
             for (int j = 1; j <= 7; j++) {
                 arr[i][j] = sc.nextInt();
             }
-
         }
-
 
         BFS(1, 1);
-
-//        System.out.println(Arrays.toString(dis[0]));
-//        System.out.println(Arrays.toString(dis[1]));
-//        System.out.println(Arrays.toString(dis[2]));
-        if(dis[7][7] == 0){
+        if (dis[7][7] == 0) {
             System.out.println(-1);
-        }else {
-           System.out.println(dis[7][7]);
+        } else {
+            System.out.println(dis[7][7]);
         }
+    }
 
+    static class Point {
 
+        public int x, y;
+
+        Point(int x, int y) {
+            this.x = x;
+            this.y = y;
+        }
     }
 }
