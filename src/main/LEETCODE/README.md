@@ -10,5 +10,6 @@
 | Medium | [260. Single Number III](https://leetcode.com/problems/single-number-iii/)                                                                                      | [Solution.java](MEDIUM%2FN260%2FSolution.java)                                                | 구현     |    |
 | Easy   | [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/)                                                                                     | [Solution.java](EASY%2FN3110%2FSolution.java)                                                 | 구현     |    |
 | Hard   | [749. Contain Virus](https://leetcode.com/problems/contain-virus/description/)                                                                                  |                                                                                               | 구현/DFS |    |
+| Eesy   | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                                                | [Solution.java](EASY%2FN844%2FSolution.java)                                                  | 구현/DFS |    |
 
 
