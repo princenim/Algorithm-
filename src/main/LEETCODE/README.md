@@ -12,5 +12,6 @@
 | Hard   | [749. Contain Virus](https://leetcode.com/problems/contain-virus/description/)                                                                                  |                                                                                               | 구현/DFS       |    |
 | Easy   | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)                                                            | [Solution.java](EASY%2FN844%2FSolution.java)                                                  | 구현           |    |
 | Easy   | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)                                                                                | [Solution.java](EASY%2FN344%2FSolution.java)                                                  | two-pointers |    |
+| Easy   | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)                                                                            | [Solution.java](EASY%2FN867%2FSolution.java)                                                  | 구현           |    |
 
 
