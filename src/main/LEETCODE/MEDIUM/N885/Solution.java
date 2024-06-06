@@ -5,8 +5,6 @@ import java.util.Arrays;
 
 /**
  * 885. Spiral Matrix III, https://leetcode.com/problems/spiral-matrix-iii/description/, 구현
- * <p>
- * //todo 참고하지않고 다시 풀어보기
  *
  * @author hazel
  */
