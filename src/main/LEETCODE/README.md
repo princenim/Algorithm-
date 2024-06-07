@@ -15,5 +15,7 @@
 | Easy   | [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/)                                                                            | [Solution.java](EASY%2FN867%2FSolution.java)                                                  | 구현           |    |
 | Easy   | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/)                                                                        | [Solution.java](EASY%2FN409%2FSolution.java)                                                  | 구현           |    |
 | Medium | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)                                                                          | [Solution.java](MEDIUM%2FN885%2FSolution.java)                                                | 구현           |    |
+| Medium | [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)                                                            | [Solution.java](MEDIUM%2FN874%2FSolution.java)                                                | 구현           |    |
+| Hard   | [51. N-Queens](https://leetcode.com/problems/n-queens/description/)                                                                                             |                                                                                               | 구현           |    |
 
 
