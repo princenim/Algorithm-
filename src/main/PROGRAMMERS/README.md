@@ -22,6 +22,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.3 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)            | [Solution.java](LEVEL_3%2F%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98%2FSolution.java)                                     | DFS/BFS |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.1 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)             | [Solution.java](LEVEL_1%2F%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC%2FSolution.java)                                     | 완전탐색    |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [탐색](https://school.programmers.co.kr/learn/courses/30/lessons/42842)               | [Solution.java](LEVEL_2%2F%EC%B9%B4%ED%8E%AB%2FSolution.java)                                                       | 완전탐색    |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.3 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)             | [Solution.java](LEVEL_3%2F%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C%2FSolution.java)                                     | DFS/BFS |    |
 
 
 
