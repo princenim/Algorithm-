@@ -17,5 +17,6 @@
 | Medium | [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/)                                                                          | [Solution.java](MEDIUM%2FN885%2FSolution.java)                                                | 구현           |    |
 | Medium | [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/)                                                            | [Solution.java](MEDIUM%2FN874%2FSolution.java)                                                | 구현           |    |
 | Hard   | [51. N-Queens](https://leetcode.com/problems/n-queens/description/)                                                                                             |                                                                                               | 구현           |    |
+| Medium | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)                                                            | [Solution.java](MEDIUM%2FN946%2FSolution.java)                                                | 구현           |    |
 
 
