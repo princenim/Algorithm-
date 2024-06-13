@@ -24,6 +24,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [탐색](https://school.programmers.co.kr/learn/courses/30/lessons/42842)               | [Solution.java](LEVEL_2%2F%EC%B9%B4%ED%8E%AB%2FSolution.java)                                                       | 완전탐색    |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.3 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)             | [Solution.java](LEVEL_3%2F%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C%2FSolution.java)                                     | DFS/BFS |    |
 | [PCCP  기출문제](https://school.programmers.co.kr/learn/challenges?order=recent&languages=java&page=1&partIds=56389)    | Lv.2 | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)           | [Solution.java](LEVEL_2%2F%EC%84%9D%EC%9C%A0%EC%8B%9C%EC%B6%94%2FSolution.java)                                     | DFS/BFS |    |
+| [연습 문제](https://school.programmers.co.kr/learn/challenges?order=recent&page=1)                                      | Lv.1 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)            | [Solution.java](LEVEL_1%2F%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0%2FSolution.java)                                     | 구현      |    |
 
 
 
