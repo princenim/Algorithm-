@@ -26,6 +26,7 @@
 | [PCCP  기출문제](https://school.programmers.co.kr/learn/challenges?order=recent&languages=java&page=1&partIds=56389)    | Lv.2 | [석유 시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)           | [Solution.java](LEVEL_2%2F%EC%84%9D%EC%9C%A0%EC%8B%9C%EC%B6%94%2FSolution.java)                                     | DFS/BFS |    |
 | [연습 문제](https://school.programmers.co.kr/learn/challenges?order=recent&page=1)                                      | Lv.1 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921)            | [Solution.java](LEVEL_1%2F%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0%2FSolution.java)                                     | 구현      |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            | [Solution.java](LEVEL_2%2F%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0%2FSolution.java)                                     | 완전탐색    |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)              | [Solution.java](LEVEL_2%2F%ED%94%BC%EB%A1%9C%EB%8F%84%2FSolution.java)                                              | 완전탐색    |    |
 
 
 
