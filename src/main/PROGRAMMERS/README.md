@@ -28,6 +28,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)            | [Solution.java](LEVEL_2%2F%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0%2FSolution.java)                                     | 완전탐색    |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)              | [Solution.java](LEVEL_2%2F%ED%94%BC%EB%A1%9C%EB%8F%84%2FSolution.java)                                              | 완전탐색    |    |
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             | [Solution.java](LEVEL_2%2F%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84%2FSolution.java)                                     | 완전탐색    |    |
+| [코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)                        | Lv.0 | [가위바위보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)           | [Solution.java](LEVEL_0%2F%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%2FSolution.java)                            | 구현      |    |
 
 
 
