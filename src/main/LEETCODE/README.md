@@ -19,6 +19,6 @@
 | Hard   | [51. N-Queens](https://leetcode.com/problems/n-queens/description/)                                                                                             |                                                                                               | 구현           |    |
 | Medium | [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)                                                            | [Solution.java](MEDIUM%2FN946%2FSolution.java)                                                | 구현           |    |
 | Medium | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/)                                          | [Solution.java](MEDIUM%2FN985%2FSolution.java)                                                | 구현           |    |
-| Easy   | [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/)                                                      | [Solution.java](EASY%2FN999%2FSolution.java)                                                  | 구현           |    |
+| Medium | [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)                                | [Solution.java](MEDIUM%2FN945%2FSolution.java)                                                | 구현           |    |
 
 
