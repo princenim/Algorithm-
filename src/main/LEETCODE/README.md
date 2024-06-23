@@ -21,6 +21,6 @@
 | Medium | [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/)                                          | [Solution.java](MEDIUM%2FN985%2FSolution.java)                                                | 구현           |    |
 | Medium | [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/)                                | [Solution.java](MEDIUM%2FN945%2FSolution.java)                                                | 구현           |    |
 | Medium | [1774. Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/description/)                                                                   | [Solution.java](MEDIUM%2FN1774%2FSolution.java)                                               | 백트래킹         |    |
-| Medium | [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/description/)                             | [Solution.java](MEDIUM%2FN3169%2FSolution.java)                                               | 구현           |    |
+| Medium | [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/description/)                             | [Solution.java](MEDIUM%2FN3185%2FSolution.java)                                               | 구현           |    |
 
 
