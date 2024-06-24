@@ -30,6 +30,7 @@
 | [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                       | Lv.2 | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)             | [Solution.java](LEVEL_2%2F%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84%2FSolution.java)                                     | 완전탐색    |    |
 | [코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)                        | Lv.0 | [가위바위보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)           | [Solution.java](LEVEL_0%2F%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%2FSolution.java)                            | 구현      |    |
 | [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)                      | Lv.0 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)          | [Solution.java](LEVEL_0%2F%EC%A1%B0%EA%B1%B4%EB%AC%B8%EC%9E%90%EC%97%B4%2FSolution.java)                            | 구현      |    |
+| [연습문제](https://school.programmers.co.kr/learn/challenges?order=recent)                                              | Lv.1 | [이상한문자만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)         | [Solution.java](LEVEL_1%2F%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0%2FSolution.java) | 구현      |    |
 
 
 
