@@ -24,5 +24,6 @@
 | Medium | [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/description/)                             | [Solution.java](MEDIUM%2FN3185%2FSolution.java)                                               | 구현           |    |
 | Medium | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)                                                            | [Solution.java](MEDIUM%2FN129%2FSolution.java)                                                | DFS          |    |
 | Medium | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)                                                                                          | [LRUCache.java](MEDIUM%2FN146%2FLRUCache.java)                                                | 구현           |    |
+| Medium | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)                                                                             | [Solution.java](MEDIUM%2FN64%2FSolution.java)                                                 | DP           |    |
 
 
