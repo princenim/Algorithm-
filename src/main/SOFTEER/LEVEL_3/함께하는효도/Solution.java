@@ -8,19 +8,19 @@ import java.util.List;
 import java.util.StringTokenizer;
 
 /**
- * 함께하는 효도, https://softeer.ai/practice/7727, 백트래킹 or dfs 이 문제는 모든 경우의 수를 다 확인함. 문제풀때 유형을 정확히 파악하고
- * 문제풀기, //todo 후에 다시 풀어보기
+ * 함께하는 효도, https://softeer.ai/practice/7727, 백트래킹 or dfs (모든 경우의 수를 다 확인)
  *
  * @author hazel
  */
 public class Solution {
+    //todo 다시 풀기
 
     static int[][] arr; //배열
-    static int[] dx = {-1, 0, 1, 0};
-    static int[] dy = {0, 1, 0, -1};
+    static int[] dx = {-1, 1, 0, 0};
+    static int[] dy = {0, 0, -1, 1};
     static int n, m;
     static List<Node> nodes; //노드 시작 주소를 담을 배열
-    static int res = 0;
+    static int res = Integer.MIN_VALUE;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -41,6 +41,7 @@ public class Solution {
             }
         }
 
+        //2명의 시작 주소
         for (int i = 0; i < m; i++) {
             String[] user = br.readLine()
                               .split(" ");
@@ -52,20 +53,22 @@ public class Solution {
         }
 
         dfs(nodes.get(0), 1, 0, 0); //첫번째 부터 시작
+        System.out.println(res);
 
 
     }
 
     public static void dfs(Node current, int pp, int cnt, int max) {
         if (cnt == 3) {
-            if (pp > m) {
+            if (pp < m) {
                 dfs(nodes.get(pp), pp + 1, 0, current.fruit + max);
                 return;
             }
-            Math.max(res, max + current.fruit);
+            res = Math.max(res, max + current.fruit);
             return;
 
         }
+
         for (int i = 0; i < 4; i++) {
             int nx = current.x + dx[i];
             int ny = current.y + dy[i];
