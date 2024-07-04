@@ -25,5 +25,6 @@
 | Medium | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)                                                            | [Solution.java](MEDIUM%2FN129%2FSolution.java)                                                | DFS          |    |
 | Medium | [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)                                                                                          | [LRUCache.java](MEDIUM%2FN146%2FLRUCache.java)                                                | 구현           |    |
 | Medium | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)                                                                             | [Solution.java](MEDIUM%2FN64%2FSolution.java)                                                 | DP           |    |
+| Easy   | [275. Find Winner on a Tic Tac Toe Gamem](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)                                         | [Solution.java](EASY%2FN1275%2FSolution.java)                                                 | 구현           |    |
 
 
