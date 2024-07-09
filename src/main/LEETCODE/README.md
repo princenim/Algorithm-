@@ -27,5 +27,6 @@
 | Medium | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)                                                                             | [Solution.java](MEDIUM%2FN64%2FSolution.java)                                                 | DP           |    |
 | Easy   | [275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)                                          | [Solution.java](EASY%2FN1275%2FSolution.java)                                                 | 구현           |    |
 | Easy   | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/)                                         | [Solution.java](EASY%2FN1252%2FSolution.java)                                                 | 구현           |    |
+| Easy   | [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)                               | [Solution.java](EASY%2FN1389%2FSolution.java)                                                 | 구현           |    |
 
 
