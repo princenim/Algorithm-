@@ -31,6 +31,7 @@
 | [코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)                        | Lv.0 | [가위바위보](https://school.programmers.co.kr/learn/courses/30/lessons/120839)           | [Solution.java](LEVEL_0%2F%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%2FSolution.java)                            | 구현      |    |
 | [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)                      | Lv.0 | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934)          | [Solution.java](LEVEL_0%2F%EC%A1%B0%EA%B1%B4%EB%AC%B8%EC%9E%90%EC%97%B4%2FSolution.java)                            | 구현      |    |
 | [연습문제](https://school.programmers.co.kr/learn/challenges?order=recent)                                              | Lv.1 | [이상한문자만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)         | [Solution.java](LEVEL_1%2F%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0%2FSolution.java) | 구현      |    |
+| [월간 코드 챌린지 시즌 1](https://school.programmers.co.kr/learn/challenges?order=recent)                                    | Lv.1 | [두수 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)       | [Solution.java](LEVEL_1%2F%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0%2FSolution.java) | 구현      |    |
 
 
 
