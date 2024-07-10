@@ -28,5 +28,6 @@
 | Easy   | [275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/)                                          | [Solution.java](EASY%2FN1275%2FSolution.java)                                                 | 구현           |    |
 | Easy   | [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/)                                         | [Solution.java](EASY%2FN1252%2FSolution.java)                                                 | 구현           |    |
 | Easy   | [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)                               | [Solution.java](EASY%2FN1389%2FSolution.java)                                                 | 구현           |    |
+| Easy   | [1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/description/)                                         | [Solution.java](MEDIUM%2FN1409%2FSolution.java)                                               | 구현           |    |
 
 
