@@ -30,5 +30,6 @@
 | Easy   | [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)                               | [Solution.java](EASY%2FN1389%2FSolution.java)                                                 | 구현           |    |
 | Easy   | [1409. Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/description/)                                         | [Solution.java](MEDIUM%2FN1409%2FSolution.java)                                               | 구현           |    |
 | Medium | [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)                                   | [Solution.java](MEDIUM%2FN1441%2FSolution.java)                                               | 구현           |    |
+| Medium | [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)                                                                           | [Solution.java](MEDIUM%2FN1324%2FSolution.java)                                               | 구현           |    |
 
 
