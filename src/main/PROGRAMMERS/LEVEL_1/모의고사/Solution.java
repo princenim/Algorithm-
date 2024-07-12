@@ -3,49 +3,46 @@ package main.PROGRAMMERS.LEVEL_1.모의고사;
 import java.util.ArrayList;
 
 /**
- * 모의고사,https://school.programmers.co.kr/learn/courses/30/lessons/42840, 완전탐색, 82m
+ * 모의고사, https://school.programmers.co.kr/learn/courses/30/lessons/42840, 완전탐색
  *
  * @author hazel
  */
 public class Solution {
+    //1. 문제를 한번 돌면서 각각 수포자가 정답을 맞췄는지 확인한다. -> O(N)
+    //2. 정답을 맞출때마다 각각의 정답 맞춘 횟수를 증가시킨다.
+    //   (이때 인덱스 범위를 넘지 않도록 나머지 연산을 해준다)
+    //3. 횟수 중에서 가장 높은 숫자를 찾고 그 숫자와 같은 수포자의 번호만 정답 배열에 추가한다.
 
-    public ArrayList<Integer> solution(int[] answers) {
-        int[] answer = new int[3];
-        //리턴할 배열
-        ArrayList<Integer> arr = new ArrayList<>();
-
-        int[] one = {1, 2, 3, 4, 5};
-        int[] two = {2, 1, 2, 3, 2, 4, 2, 5};
-        int[] three = {3, 3, 1, 1, 2, 2, 4, 4, 5, 5};
+    public int[] solution(int[] answers) {
+        int[] answerCnt = new int[3];
+        int[] n1 = {1, 2, 3, 4, 5};
+        int[] n2 = {2, 1, 2, 3, 2, 4, 2, 5};
+        int[] n3 = {3, 3, 1, 1, 2, 2, 4, 4, 5, 5};
 
         for (int i = 0; i < answers.length; i++) {
-            if (answers[i] == one[i % 5]) {
-                answer[0]++;
-            }
 
-            if (answers[i] == two[i % 8]) {
-                answer[1]++;
+            if (n1[i % n1.length] == answers[i]) {
+                answerCnt[0] += 1;
             }
-            if (answers[i] == three[i % 10]) {
-                answer[2]++;
+            if (n2[i % n2.length] == answers[i]) {
+                answerCnt[1] += 1;
+            }
+            if (n3[i % n3.length] == answers[i]) {
+                answerCnt[2] += 1;
             }
         }
 
-        //가장 많이 맞춘 개수
-        int maxNum = Math.max(answer[0], Math.max(answer[1], answer[2]));
+        int max = Math.max(answerCnt[0], Math.max(answerCnt[1], answerCnt[2]));
 
+        ArrayList<Integer> answer = new ArrayList<>();
         for (int i = 0; i < 3; i++) {
-            if (maxNum == answer[i]) { //같을때!
-                arr.add(i + 1);
+            if (max == answerCnt[i]) {
+                answer.add(i + 1);
             }
         }
-        return arr;
-    }
 
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[] arr = {1, 2, 3, 4, 5};
-        ArrayList<Integer> answer = solution.solution(arr);
-        System.out.println(answer);
+        return answer.stream()
+                     .mapToInt(Integer::intValue)
+                     .toArray();
     }
 }
