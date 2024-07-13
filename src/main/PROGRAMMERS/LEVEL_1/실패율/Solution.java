@@ -24,6 +24,7 @@ public class Solution {
         double len = stages.length;
         for (int i = 1; i <= n; i++) {
             if (users[i] == 0) { //도전한 사람이 없을때
+                // 이렇게 명시적으로 처리해주는 이유는 0을 float나 double로 나누면 NaN이 나온다.
                 fails.put(i, 0.);
             } else {
                 fails.put(i, users[i] / len);
@@ -33,7 +34,7 @@ public class Solution {
         //value를 내림차순 기준으로 정렬
         return fails.entrySet()
                     .stream()
-                    .sorted( //내부적으로 timsort 시용
+                    .sorted( //내부적으로 timsort시용
                         (o1, o2) -> Double.compare(o2.getValue(), o1.getValue()))
                     .mapToInt(HashMap.Entry::getKey)
                     .toArray();
