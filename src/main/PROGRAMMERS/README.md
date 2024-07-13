@@ -33,6 +33,7 @@
 | [연습문제](https://school.programmers.co.kr/learn/challenges?order=recent)                                              | Lv.1 | [이상한문자만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)         | [Solution.java](LEVEL_1%2F%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0%2FSolution.java) | 구현      |    |
 | [연습문제](https://school.programmers.co.kr/learn/challenges?order=recent)                                              | Lv.2 | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)           | [Solution.java](LEVEL_2%2F%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88%2FSolution.java)                            | 구현      |    |
 | [월간 코드 챌린지 시즌 1](https://school.programmers.co.kr/learn/challenges?order=recent)                                    | Lv.1 | [두수 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)       | [Solution.java](LEVEL_1%2F%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0%2FSolution.java) | 구현      |    |
+| [2019 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=12286) | Lv.1 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)              | [Solution.java](LEVEL_1%2F%EC%8B%A4%ED%8C%A8%EC%9C%A8%2FSolution.java)                                              | 구현      |    |
 
 
 
