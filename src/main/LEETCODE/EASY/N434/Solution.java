@@ -15,7 +15,8 @@ public class Solution {
         String[] arr = s.split(" ");  //-> O(N)
         int answer = 0;
         for (int i = 0; i < arr.length; i++) { //-> O(N)
-            if (!arr[i].isEmpty()) {
+            if (!arr[i].isEmpty()) { //이렇게 empty를 체크하는 이유는 string이 ""로 들어왔을때
+                // 결과는 [""]이 되고 배열에 빈 문자열이 하나 들어있기 때문
                 answer += 1;
             }
         }
