@@ -33,5 +33,6 @@
 | Medium | [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)                                                                           | [Solution.java](MEDIUM%2FN1503%2FSolution.java)                                               | 구현           |    |
 | Medium | [1503. Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/)                         | [Solution.java](MEDIUM%2FN1324%2FSolution.java)                                               | 구현           |    |
 | Easy   | [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/)                                                | [Solution.java](EASY%2FN434%2FSolution.java)                                                  | 구현           |    |
+| Easy   | [1. Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                                | [Solution.java](EASY%2FN1%2FSolution.java)                                                    | 구현           |    |
 
 
