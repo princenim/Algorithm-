@@ -1,20 +1,21 @@
-package main.PROGRAMMERS.KAKAO_BLIND_2020.괄호변환;
+package main.PROGRAMMERS.LEVEL_2.괄호변환;
 
 import java.util.Scanner;
 import java.util.Stack;
 
 /**
- * 괄호 변환
+ * 괄호 변환 , https://school.programmers.co.kr/learn/courses/30/lessons/60058, 구현
+ *
  * @author hazel
  */
 class Solution {
+
     public static void main(String[] args) {
         Solution solution = new Solution();
         Scanner scanner = new Scanner(System.in);
         String str = scanner.next();
         StringBuilder answer = solution.solution(str);
         System.out.println(answer);
-
     }
 
     public StringBuilder solution(String p) {
@@ -22,7 +23,6 @@ class Solution {
         String v = "";
         int lcnt = 0;
         int rcnt = 0;
-
 
         //입력이 빈 문자열인 경우 빈 문자열 반환
         if (p.isEmpty()) {
@@ -43,10 +43,8 @@ class Solution {
             }
         }
 
-
 //        System.out.println("u : " + u);
 //        System.out.println("v : " + v);
-
 
         //3. 올바른 문자열일떄 - 위의 과정을 반복 수행
         if (isCorrect(u.toString())) {
@@ -88,5 +86,4 @@ class Solution {
         }
         return true;
     }
-
 }
