@@ -37,6 +37,7 @@
 | [Summer/Winter Coding(~2018)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&search=%EB%B0%A9%EB%AC%B8+%EA%B8%B8%EC%9D%B4&partIds=6174) | Lv.2 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)            | [Solution.java](LEVEL_2%2F%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4%2FSolution.java)                                     | 구현      |    |
 | [2020 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=17214)                                            | Lv.2 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)            | [Solution.java](LEVEL_2%2F%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98%2FSolution.java)                                     | 구현      |    |
 | [월간 코드 챌린지 시즌 2](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=21163)                                                          | Lv.2 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)          | [Solution.java](LEVEL_2%2F%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0%2FSolution.java)                   | 스택      |    |
+| [2017 팁스타운](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=6173)                                                                | Lv.2 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         | [Solution.java](LEVEL_2%2F%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0%2FSolution.java)          | 스택      |    |
 
 
 
