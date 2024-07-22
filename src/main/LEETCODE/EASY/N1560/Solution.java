@@ -17,11 +17,11 @@ public class Solution {
         int start = rounds[0]; //출발 라운드
         int end = rounds[rounds.length - 1]; //마지막 라운드
 
-        if (start <= end) { //[1,3,1,2], n=1
+        if (start <= end) { //[1,3,1,2], n=4
             for (int i = start; i <= end; i++) {
                 ans.add(i);
             }
-        } else { //마지막보다 출발이 더 크면 e.g [2,3,4,1], n =1
+        } else { //마지막보다 출발이 더 크면 e.g [2,3,4,1], n =4
             for (int i = 1; i <= end; i++) {
                 ans.add(i);
             }
