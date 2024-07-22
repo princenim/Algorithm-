@@ -1,14 +1,12 @@
 package main.PROGRAMMERS.LEVEL_3.네트워크;
 
-import java.util.Arrays;
-
 /**
  * 네트워크, https://school.programmers.co.kr/learn/courses/30/lessons/43162, DFS/BFS
  *
  * @author hazel
  */
 public class Solution {
-
+    //모든 요소를 탐색해야하므로 DFS로 풀이
 
     boolean[] visited;
 
@@ -16,24 +14,24 @@ public class Solution {
         int answer = 0;
         visited = new boolean[n];
 
+        //방문하지 않았을때
         for (int i = 0; i < n; i++) {
-
-            System.out.println(Arrays.toString(visited));
             if (!visited[i]) {
+                dfs(computers, i, n);
                 answer++;
-                dfs(i, n, computers);
             }
         }
         return answer;
     }
 
-    public void dfs(int x, int n, int[][] computers) {
-        visited[x] = true;//방문 처리
+    public void dfs(int[][] computers, int x, int n) {
+        //방문 처리
+        visited[x] = true;
 
         for (int i = 0; i < n; i++) {
-            if (computers[x][i] == 1) {
-                if (!visited[i]) { //방문안 했고
-                    dfs(i, n, computers);
+            if (!visited[i]) { //방문하지 않았고,
+                if (computers[x][i] == 1) {//1일때
+                    dfs(computers, i, n);
                 }
             }
         }
