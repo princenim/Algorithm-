@@ -38,6 +38,7 @@
 | [2020 KAKAO BLIND RECRUITMENT](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=17214)                                            | Lv.2 | [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)            | [Solution.java](LEVEL_2%2F%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98%2FSolution.java)                                     | 구현      |    |
 | [월간 코드 챌린지 시즌 2](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=21163)                                                          | Lv.2 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)          | [Solution.java](LEVEL_2%2F%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0%2FSolution.java)                   | 스택      |    |
 | [2017 팁스타운](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=6173)                                                                | Lv.2 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)         | [Solution.java](LEVEL_2%2F%EC%A7%9D%EC%A7%80%EC%96%B4%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0%2FSolution.java)          | 스택      |    |
+| [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)                                                                  | Lv.2 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)             | [Solution.java](LEVEL_2%2F%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9%2FSolution.java)                                     | 스택      |    |
 
 
 
