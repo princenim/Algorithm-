@@ -37,5 +37,6 @@
 | Medium | [1535. Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/description/)                                           | [Solution.java](MEDIUM%2FN1535%2FSolution.java)                                               | 구현           |    |
 | Medium | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)                                         | [Solution.java](MEDIUM%2FN1545%2FSolution.java)                                               | 구현           |    |
 | Easy   | [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)                                         | [Solution.java](EASY%2FN1560%2FSolution.java)                                                 | 구현           |    |
+| Medium | [1562. Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/)                                                                 | [Solution.java](MEDIUM%2FN1562%2FSolution.java)                                               | 구현           |    |
 
 
