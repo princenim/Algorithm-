@@ -38,5 +38,6 @@
 | Medium | [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/)                                         | [Solution.java](MEDIUM%2FN1545%2FSolution.java)                                               | 구현           |    |
 | Easy   | [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)                                         | [Solution.java](EASY%2FN1560%2FSolution.java)                                                 | 구현           |    |
 | Medium | [1562. Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/)                                                                 | [Solution.java](MEDIUM%2FN1562%2FSolution.java)                                               | 구현           |    |
+| Easy   | [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/)                                                                 | [ParkingSystem.java](EASY%2FN1603%2FParkingSystem.java)                                       | 구현           |    |
 
 
