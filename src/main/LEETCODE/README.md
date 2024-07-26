@@ -39,5 +39,6 @@
 | Easy   | [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)                                         | [Solution.java](EASY%2FN1560%2FSolution.java)                                                 | 구현           |    |
 | Medium | [1562. Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/)                                                                 | [Solution.java](MEDIUM%2FN1562%2FSolution.java)                                               | 구현           |    |
 | Easy   | [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/)                                                                 | [ParkingSystem.java](EASY%2FN1603%2FParkingSystem.java)                                       | 구현           |    |
+| Easy   | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                            | [Solution.java](EASY%2FN724%2FSolution.java)                                                  | 구현           |    |
 
 
