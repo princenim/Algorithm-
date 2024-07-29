@@ -42,5 +42,7 @@
 | Easy   | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)                                                                            | [Solution.java](EASY%2FN724%2FSolution.java)                                                  | 구현           |    |
 | Easy   | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                                                            | [Solution.java](EASY%2FN746%2FSolution.java)                                                  | DP           |    |
 | Easy   | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                                                            | [Solution.java](EASY%2FN509%2FSolution.java)                                                  | 구현           |    |
+| Easy   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                                                        | [Solution.java](EASY%2FN217%2FSolution.java)                                                  | 구현           |    |
+
 
 
