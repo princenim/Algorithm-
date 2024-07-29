@@ -43,6 +43,7 @@
 | Easy   | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                                                            | [Solution.java](EASY%2FN746%2FSolution.java)                                                  | DP           |    |
 | Easy   | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)                                                                            | [Solution.java](EASY%2FN509%2FSolution.java)                                                  | 구현           |    |
 | Easy   | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                                                        | [Solution.java](EASY%2FN217%2FSolution.java)                                                  | 구현           |    |
+| Easy   | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                                  | [Solution.java](EASY%2FN242%2FSolution.java)                                                  | 구현           |    |
 
 
 
