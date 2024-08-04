@@ -47,6 +47,7 @@
 | Medium | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                                             | [Solution.java](MEDIUM%2FN49%2FSolution.java)                                                 | 구현           |    |
 | Medium | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                                              | [Solution.java](MEDIUM%2FN347%2FSolution.java)                                                | 구현           |    |
 | Medium | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                                    | [Solution.java](MEDIUM%2FN238%2FSolution.java)                                                | 구현           |    |
+| Medium | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)                                                                                     | [Solution.java](MEDIUM%2FN36%2FSolution.java)                                                 | 구현           |    |
 | Easy   | [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                               | [Solution.java](EASY%2FN1207%2FSolution.java)                                                 | 구현           |    |
 
 
